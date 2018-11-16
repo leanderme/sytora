@@ -1,0 +1,180 @@
+body {
+  color: #33334f;
+  font-family: 'Source Sans Pro',-apple-system,BlinkMacSystemFont,"Segoe UI","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" on;
+}
+
+a {
+  cursor: pointer;
+}
+
+footer {
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 12px;
+  min-height: 90px;
+  padding: 70px 40px 20px;
+  width: 100%;
+}
+
+footer a {
+  color: #ffffff !important;
+}
+
+#footerFixed {
+  position: absolute;
+  bottom: 0;
+}
+
+.landing-box {
+  background: white;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 15px;
+}
+
+.landing-box .Select-control {
+  border: none !important;
+}
+
+
+.custom-counter {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.custom-counter li {
+  counter-increment: step-counter;
+}
+
+.custom-counter li::before {
+  content: counter(step-counter);
+  margin-right: 10px;
+  font-size: 80%;
+  background-color: #fafafa;
+  color: #34333 !important;
+  font-weight: bold;
+  padding: 3px 8px;
+  border-radius: 3px;
+}
+
+.search-header {
+  -moz-box-shadow: 0 1px 0 rgba(0,0,0,0.15);
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.15);
+  box-shadow: 0 1px 0 rgba(0,0,0,0.15);
+  -webkit-tab-highlight-color: transparent;
+  background-color: #fafafa;
+  padding-top: 16px;
+  position: relative;
+  z-index: 15;
+}
+
+.table {
+  background: #ffffff !important;
+}
+
+/*========================
+    BASIC styles
+  =======================*/
+* {
+  box-sizing: border-box;
+}
+
+/*========================
+    BUTTON styles
+  =======================*/
+.clap {
+  position: relative;
+  outline: 1px solid transparent;
+  border-radius: 50%;
+  border: 1px solid #bdc3c7;
+  width: 40px;
+  height: 40px;
+  background: none;
+
+}
+.clap:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  border-radius: 50%;
+  width: 39px;
+  height: 39px;
+}
+.clap:hover {
+  cursor: pointer;
+  border: 1px solid #007bff;
+  transition: border-color 0.3s ease-in;
+}
+.clap:hover:after {
+  animation: shockwave 1s ease-in infinite;
+}
+.clap svg {
+  width: 20px;
+  fill: none;
+  stroke: #007bff;
+  stroke-width: 2px;
+}
+.clap svg.checked {
+  fill: #007bff;
+  stroke: #fff;
+  stroke-width: 1px;
+}
+
+.clap:focus {
+  outline: none;
+}
+
+.clap svg:focus {
+  outline: none;
+}
+
+.clap .clap--count {
+  display: none !important;
+  position: absolute;
+  top: -50px;
+  left: 20px;
+  font-size: 0.8rem;
+  color: white;
+  background: #007bff;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+}
+.clap .clap--count-total {
+  display: none !important;
+  position: absolute;
+  font-size: 0.8rem;
+  width: 40px;
+  text-align: center;
+  left: 0;
+  top: -22.85714px;
+  color: #bdc3c7;
+}
+
+
+@keyframes shockwave {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 2px #007bff;
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0;
+    box-shadow: 0 0 50px #1976d2, inset 0 0 10px #007bff;
+  }
+}

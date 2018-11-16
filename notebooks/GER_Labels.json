@@ -1,0 +1,1 @@
+exports.GERLABELS = [{"value": "C0039239", "label": "Tachykardie, Sinus-"}, {"value": "C0000737", "label": "Abdominalschmerzen"}, {"value": "C0235704", "label": "Adynamie"}, {"value": "C0030554", "label": "Parästhesie"}, {"value": "C0030552", "label": "Parese"}];

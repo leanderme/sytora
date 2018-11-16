@@ -1,0 +1,1 @@
+exports.ENGLABELS = [{"value": "C0039239", "label": "Sinus Tachycardia"}, {"value": "C0000737", "label": "Abdominal Pain"}, {"value": "C0235704", "label": "Adynamia"}, {"value": "C0030554", "label": "Paresthesia"}, {"value": "C0030552", "label": "Paresis"}];

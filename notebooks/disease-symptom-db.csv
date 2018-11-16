@@ -1,0 +1,2580 @@
+Disease_UMLS,Disease_CUI,Symptom,Symptom_CUI
+"porphyrie , akute intermittierende",C0162565,sinustachykardie,C0039239
+"porphyrie , akute intermittierende",C0162565,abdominalschmerzen,C0000737
+"porphyrie , akute intermittierende",C0162565,adynamie,C0235704
+"porphyrie , akute intermittierende",C0162565,paraesthesie,C0030554
+"porphyrie , akute intermittierende",C0162565,parese,C0030552
+"porphyrie , akute intermittierende",C0162565,hypertonie,C0020538
+porphyria cutanea tarda,C0162566,hypertrichose,C0020555
+porphyria cutanea tarda,C0162566,Blasenbildung,C0005758
+vorhofflimmern,C0004238,palpitationen,C0030252
+vorhofflimmern,C0004238,herzrasen,C1868917
+vorhofflimmern,C0004238,unregelmaessiger puls,C0392684
+vorhofflimmern,C0004238,schwindel,C0012833
+vorhofflimmern,C0004238,angst,C0003467
+vorhofflimmern,C0004238,unruhe innere,C0857217
+vorhofflimmern,C0004238,dyspnoe,C0013404
+vorhofflimmern,C0004238,angst,C0003467
+vorhofflimmern,C0004238,polyurie,C0032617
+vorhofflimmern,C0004238,palpitationen,C0030252
+vorhofflimmern,C0004238,schwindelgefuehl,C0012833
+vorhofflimmern,C0004238,synkope,C0039070
+linksherzinsuffizienz,C0023212,dyspnoe,C0013404
+linksherzinsuffizienz,C0023212,belastungsdyspnoe,C0231807
+linksherzinsuffizienz,C0023212,orthopnoe,C0085619
+linksherzinsuffizienz,C0023212,tachypnoe,C0231835
+linksherzinsuffizienz,C0023212,naechtlicher husten,C0231912
+linksherzinsuffizienz,C0023212,asthma cardiale,C1956414
+linksherzinsuffizienz,C0023212,zyanose,C0010520
+linksherzinsuffizienz,C0023212,lungenoedem,C0034063
+linksherzinsuffizienz,C0023212,pleuraerguss,C0032227
+linksherzinsuffizienz,C0023212,lungenoedem,C0034063
+linksherzinsuffizienz,C0023212,zerebrale hypoperfusion,C1695782
+linksherzinsuffizienz,C0023212,verminderte vigilanz,C0920048
+linksherzinsuffizienz,C0023212,verwirrtheit,C0009676
+linksherzinsuffizienz,C0023212,schwaechegefuehl,C3714552
+linksherzinsuffizienz,C0023212,abgeschlagenheit,C0015672
+rechtsherzinsuffizienz,C0235527,Beinoedem,C0235886
+rechtsherzinsuffizienz,C0235527,chronische stauungsleber,C0156195
+rechtsherzinsuffizienz,C0235527,hepatomegalie,C0019209
+rechtsherzinsuffizienz,C0235527,ikterus,C0022346
+rechtsherzinsuffizienz,C0235527,aszites,C0003962
+rechtsherzinsuffizienz,C0235527,uebelkeit,C0027497
+rechtsherzinsuffizienz,C0235527,appetitlosigkeit,C0003123
+herzinsuffizienz,C0018801,abgeschlagenheit,C0015672
+herzinsuffizienz,C0018801,nykturie,C0028734
+herzinsuffizienz,C0018801,sinustachykardie,C0039239
+herzinsuffizienz,C0018801,lungenstauung,C0242073
+herzinsuffizienz,C0018801,dyspnoe,C0013404
+herzinsuffizienz,C0018801,dyspnoe,C0013404
+herzinsuffizienz,C0018801,tachypnoe,C0231835
+herzinsuffizienz,C0018801,orthopnoe,C0085619
+herzinsuffizienz,C0018801,asthma cardiale,C1956414
+herzinsuffizienz,C0018801,naechtlicher husten,C0231912
+herzinsuffizienz,C0018801,lungenoedem,C0034063
+herzinsuffizienz,C0018801,zyanose,C0010520
+herzinsuffizienz,C0018801,abgeschlagenheit,C0015672
+herzinsuffizienz,C0018801,schwaechegefuehl,C3714552
+herzinsuffizienz,C0018801,oedem,C0013604
+herzinsuffizienz,C0018801,anaemie,C0002871
+herzinsuffizienz,C0018801,appetitlosigkeit,C0003123
+herzinsuffizienz,C0018801,meteorismus,C1291077
+herzinsuffizienz,C0018801,kachexie,C0006625
+herzinsuffizienz,C0018801,proteinurie,C0033687
+herzinsuffizienz,C0018801,nykturie,C0028734
+herzinsuffizienz,C0018801,sinustachykardie,C0039239
+herzinsuffizienz,C0018801,kardiomegalie,C0018800
+herzinsuffizienz,C0018801,pleuraerguss,C0032227
+hypertrophische kardiomyopathie,C0007194,abgeschlagenheit,C0015672
+hypertrophische kardiomyopathie,C0007194,palpitationen,C0030252
+hypertrophische kardiomyopathie,C0007194,schwindel,C0012833
+hypertrophische kardiomyopathie,C0007194,dyspnoe,C0013404
+hypertrophische kardiomyopathie,C0007194,angina pectoris,C0002962
+"kardiomyopathie , restriktive",C0007196,herzinsuffizienz,C0018801
+"kardiomyopathie , restriktive",C0007196,dyspnoe,C0013404
+"kardiomyopathie , restriktive",C0007196,sinustachykardie,C0039239
+"kardiomyopathie , restriktive",C0007196,oedem,C0013604
+"kardiomyopathie , restriktive",C0007196,leberstauung,C0267821
+dilatative kardiomyopathie,C0007193,palpitationen,C0030252
+dilatative kardiomyopathie,C0007193,belastungsdyspnoe,C0231807
+dilatative kardiomyopathie,C0007193,lungenstauung,C0242073
+dilatative kardiomyopathie,C0007193,lungenoedem,C0034063
+dilatative kardiomyopathie,C0007193,dyspnoe,C0013404
+dilatative kardiomyopathie,C0007193,zyanose peripher,C0235532
+dilatative kardiomyopathie,C0007193,mitralklappeninsuffizienz,C0026266
+paroxysmale naechtliche haemoglobinurie,C0024790,brauner urin,C1142277
+paroxysmale naechtliche haemoglobinurie,C0024790,kopfschmerzen,C0018681
+paroxysmale naechtliche haemoglobinurie,C0024790,hypertonie,C0020538
+paroxysmale naechtliche haemoglobinurie,C0024790,panzytopenie,C0030312
+paroxysmale naechtliche haemoglobinurie,C0024790,blutung,C0019080
+paroxysmale naechtliche haemoglobinurie,C0024790,anaemie,C0002871
+paroxysmale naechtliche haemoglobinurie,C0024790,haemolyse,C0019054
+paroxysmale naechtliche haemoglobinurie,C0024790,zytopenie,C0010828
+paroxysmale naechtliche haemoglobinurie,C0024790,haematurie,C0018965
+paroxysmale naechtliche haemoglobinurie,C0024790,thrombophilie,C0398623
+paroxysmale naechtliche haemoglobinurie,C0024790,dyspnoe,C0013404
+paroxysmale naechtliche haemoglobinurie,C0024790,anaemie,C0002871
+paroxysmale naechtliche haemoglobinurie,C0024790,haemolyse,C0019054
+paroxysmale naechtliche haemoglobinurie,C0024790,thoraxschmerz,C0008031
+paroxysmale naechtliche haemoglobinurie,C0024790,uebelkeit,C0027497
+paroxysmale naechtliche haemoglobinurie,C0024790,dysphagie,C0011168
+paroxysmale naechtliche haemoglobinurie,C0024790,erektile dysfunktion,C0242350
+paroxysmale naechtliche haemoglobinurie,C0024790,rueckenschmerzen,C0004604
+paroxysmale naechtliche haemoglobinurie,C0024790,kopfschmerzen,C0018681
+paroxysmale naechtliche haemoglobinurie,C0024790,muskelschmerzen,C0231528
+anaemie kugelzell,C0037889,anaemie,C0002871
+anaemie kugelzell,C0037889,blaesse,C0030232
+anaemie kugelzell,C0037889,dyspnoe,C0013404
+anaemie kugelzell,C0037889,sinustachykardie,C0039239
+anaemie kugelzell,C0037889,ikterus,C0022346
+anaemie kugelzell,C0037889,splenomegalie,C0038002
+anaemie kugelzell,C0037889,cholezystolithiasis,C0947622
+anaemie kugelzell,C0037889,bilirubin insgesamt hoch,C0741494
+anaemie kugelzell,C0037889,gallensteine,C0008350
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,anaemie,C0002871
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,schwaeche,C3714552
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,chronische muedigkeit,C0518656
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,blaesse,C0030232
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,leukozytopenie,C0023530
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,thrombozytopenie,C0040034
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,petechien,C0031256
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,hepatosplenomegalie,C0019214
+akute und chronische sarkoidose,C0947845,fieber,C0015967
+akute und chronische sarkoidose,C0947845,abgeschlagenheit,C0015672
+akute und chronische sarkoidose,C0947845,appetitlosigkeit,C0003123
+akute und chronische sarkoidose,C0947845,unbeabsichtigter gewichtsverlust,C2363736
+akute und chronische sarkoidose,C0947845,dyspnoe,C0013404
+akute und chronische sarkoidose,C0947845,husten,C0010200
+akute und chronische sarkoidose,C0947845,polyarthritis,C0162323
+loefgren - syndrom,C0340164,fieber,C0015967
+loefgren - syndrom,C0340164,polyarthritis,C0162323
+loefgren - syndrom,C0340164,erythema nodosum,C0014743
+loefgren - syndrom,C0340164,hilaere lymphadenopathie,C0456973
+heerfordt - syndrom,C0042171,fieber,C0015967
+heerfordt - syndrom,C0042171,parotitis,C0030583
+heerfordt - syndrom,C0042171,uveitis,C0042164
+heerfordt - syndrom,C0042171,iridozyklitis,C0022073
+heerfordt - syndrom,C0042171,fazialisparese,C0376175
+akute und chronische sarkoidose,C0947845,reizhusten,C0859870
+akute und chronische sarkoidose,C0947845,belastungsdyspnoe,C0231807
+akute und chronische sarkoidose,C0947845,iridozyklitis,C0022073
+akute und chronische sarkoidose,C0947845,erythema nodosum,C0014743
+akute und chronische sarkoidose,C0947845,lymphadenopathie,C0497156
+akute und chronische sarkoidose,C0947845,meningoenzephalitis,C0025309
+akute und chronische sarkoidose,C0947845,sehstoerungen,C0547030
+akute und chronische sarkoidose,C0947845,stauungspapille,C0030353
+akute und chronische sarkoidose,C0947845,hydrozephalus,C0020255
+akute und chronische sarkoidose,C0947845,herzinsuffizienz,C0018801
+akute und chronische sarkoidose,C0947845,perikarderguss,C0031039
+akute und chronische sarkoidose,C0947845,kalzium hoch,C0553702
+akute und chronische sarkoidose,C0947845,lungenfibrose,C0034069
+antiphospholipid - syndrom,C0085278,aborte spontan,C0000786
+antiphospholipid - syndrom,C0085278,livedo - vaskulitis,C0857794
+antiphospholipid - syndrom,C0085278,amaurosis fugax,C0149793
+"mikroangiopathie , thrombotische",C0034155,abgeschlagenheit,C0015672
+"mikroangiopathie , thrombotische",C0034155,fieber,C0015967
+"mikroangiopathie , thrombotische",C0034155,thrombozytopenie,C0040034
+"mikroangiopathie , thrombotische",C0034155,petechien,C0031256
+"mikroangiopathie , thrombotische",C0034155,"nierenversagen , akutes",C0022660
+"mikroangiopathie , thrombotische",C0034155,anurie,C0003460
+"mikroangiopathie , thrombotische",C0034155,oligurie,C0028961
+"mikroangiopathie , thrombotische",C0034155,hypertonie,C0020538
+"mikroangiopathie , thrombotische",C0034155,haemolyse,C0019054
+"mikroangiopathie , thrombotische",C0034155,fieber,C0015967
+"mikroangiopathie , thrombotische",C0034155,verwirrtheit,C0009676
+"mikroangiopathie , thrombotische",C0034155,krampfanfaelle,C0036572
+"mikroangiopathie , thrombotische",C0034155,niereninsuffizienz,C1565489
+"mikroangiopathie , thrombotische",C0034155,thrombozytopenie,C0040034
+"mikroangiopathie , thrombotische",C0034155,mikroangiopathische haemolytische anaemie,C0221021
+"mikroangiopathie , thrombotische",C0034155,haemolyse,C0019054
+hypersplenismus,C0020532,panzytopenie,C0030312
+hypersplenismus,C0020532,haemolytische anaemie,C0002878
+hypersplenismus,C0020532,blaesse,C0030232
+hypersplenismus,C0020532,muedigkeit,C0015672
+hypersplenismus,C0020532,leukopenie,C0023530
+hypersplenismus,C0020532,thrombozytopenie,C0040034
+hypersplenismus,C0020532,petechien,C0031256
+pleuraerguss,C0032227,atmung anomal,C1260922
+lungenoedem,C0034063,rasselgeraeusche lunge,C0035508
+lungenoedem,C0034063,dyspnoe,C0013404
+lungenoedem,C0034063,husten,C0010200
+lungenoedem,C0034063,rasselgeraeusche lunge,C0035508
+lungenoedem,C0034063,sinustachykardie,C0039239
+lungenoedem,C0034063,zyanose,C0010520
+lungenoedem,C0034063,unruhe,C3887611
+pneumothorax,C0032326,akute dyspnoe,C0743323
+pneumothorax,C0032326,husten,C0010200
+pneumothorax,C0032326,schmerzen nnb,C0030193
+pneumothorax,C0032326,schmerzen nnb,C0030193
+pneumothorax,C0032326,dyspnoe,C0013404
+pneumothorax,C0032326,tachypnoe,C0231835
+asthma chronisch,C0877430,giemen,C0043144
+asthma chronisch,C0877430,verlaengertes exspirium,C0239324
+asthma chronisch,C0877430,trockener husten,C0850149
+asthma chronisch,C0877430,chronischer husten,C0010201
+asthma chronisch,C0877430,atemnot,C0013404
+asthma chronisch,C0877430,husten,C0010200
+asthma chronisch,C0877430,verlaengertes exspirium,C0239324
+asthma chronisch,C0877430,sinustachykardie,C0039239
+asthma chronisch,C0877430,pulsus paradoxus,C0232118
+asthma chronisch,C0877430,giemen,C0043144
+asthma chronisch,C0877430,eosinophilie,C0014457
+asthma chronisch,C0877430,sinustachykardie,C0039239
+asthma chronisch,C0877430,rechtsschenkelblock,C0085615
+copd,C0024117,chronischer husten,C0010201
+copd,C0024117,giemen,C0043144
+copd,C0024117,verlaengertes exspirium,C0239324
+pneumonie,C0032285,fieber,C0015967
+pneumonie,C0032285,dyspnoe,C0013404
+pneumonie,C0032285,rasselgeraeusche lunge,C0035508
+lungenemphysem,C0034067,emphysem,C0013990
+lungenemphysem,C0034067,obstruktion,C0028778
+lungenemphysem,C0034067,cor pulmonale,C0034072
+lungenemphysem,C0034067,dyspnoe,C0013404
+lungenemphysem,C0034067,zyanose,C0010520
+lungenfibrose,C0034069,dyspnoe,C0013404
+lungenfibrose,C0034069,trommelschlegelfinger,C0009080
+lungenfibrose,C0034069,belastungsdyspnoe,C0231807
+lungenfibrose,C0034069,tachypnoe,C0231835
+lungenfibrose,C0034069,fieber,C0015967
+lungenfibrose,C0034069,reizhusten,C0859870
+lungenembolie,C0034065,akute dyspnoe,C0743323
+lungenembolie,C0034065,sinustachykardie,C0039239
+lungenembolie,C0034065,dyspnoe,C0013404
+lungenembolie,C0034065,thoraxschmerz,C0008031
+lungenembolie,C0034065,angst,C0003467
+lungenembolie,C0034065,schock,C0036974
+lungenembolie,C0034065,synkope,C0039070
+lungenembolie,C0034065,tachypnoe,C0231835
+lungenembolie,C0034065,sinustachykardie,C0039239
+lungenembolie,C0034065,zyanose,C0010520
+lungenembolie,C0034065,husten,C0010200
+lungenembolie,C0034065,schwindel,C0012833
+lungenembolie,C0034065,tachypnoe,C0231835
+lungenembolie,C0034065,dyspnoe,C0013404
+lungenembolie,C0034065,thoraxschmerzen,C0008031
+lungenembolie,C0034065,husten,C0010200
+lungenembolie,C0034065,fieber,C0015967
+lungenembolie,C0034065,sinustachykardie,C0039239
+lungenembolie,C0034065,hypotonie,C0020649
+akute bronchitis,C0149514,rhinitis,C0035455
+akute bronchitis,C0149514,laryngitis,C0023067
+akute bronchitis,C0149514,pharyngitis,C0031350
+akute bronchitis,C0149514,husten,C0010200
+akute bronchitis,C0149514,fieber,C0015967
+akute bronchitis,C0149514,abgeschlagenheit,C0015672
+akute bronchitis,C0149514,kopfschmerzen,C0018681
+akute bronchitis,C0149514,husten,C0010200
+akute bronchitis,C0149514,fieber,C0015967
+akute bronchitis,C0149514,kopfschmerzen,C0018681
+akute bronchitis,C0149514,myalgie,C0231528
+bronchiolitis,C0006271,fieber,C0015967
+bronchiolitis,C0006271,tachypnoe,C0231835
+bronchiolitis,C0006271,zyanose,C0010520
+bronchiolitis,C0006271,verlaengertes exspirium,C0239324
+bronchiolitis,C0006271,husten,C0010200
+pontiac - fieber,C0343528,schnupfen,C0009443
+pontiac - fieber,C0343528,husten,C0010200
+pontiac - fieber,C0343528,rauer hals,C0242429
+pontiac - fieber,C0343528,fieber,C0015967
+pontiac - fieber,C0343528,verwirrtheit,C0009676
+pontiac - fieber,C0343528,schwindel,C0012833
+pontiac - fieber,C0343528,lichtscheu,C0085636
+pontiac - fieber,C0343528,muskelschmerzen,C0231528
+pontiac - fieber,C0343528,kopfschmerzen,C0018681
+pneumonie durch legionella,C0023241,pleuritis,C0032231
+pneumonie durch legionella,C0023241,fieber,C0015967
+pneumonie durch legionella,C0023241,rhinitis,C0035455
+pneumonie durch legionella,C0023241,laryngitis,C0023067
+pneumonie durch legionella,C0023241,kopfschmerzen,C0018681
+pneumonie durch legionella,C0023241,verwirrtheit,C0009676
+pneumonie durch legionella,C0023241,lethargie,C0023380
+pneumonie durch legionella,C0023241,diarrhoe,C0011991
+pneumonie durch legionella,C0023241,trockener husten,C0850149
+atypische pneumonie,C0857946,kopfschmerzen,C0018681
+atypische pneumonie,C0857946,fieber,C0015967
+atypische pneumonie,C0857946,atemnot,C0013404
+atypische pneumonie,C0857946,trockener husten,C0850149
+pneumocystis jirovecii - pneumonie,C1535939,trockener husten,C0850149
+pneumocystis jirovecii - pneumonie,C1535939,belastungsdyspnoe,C0231807
+tuberkulose,C0041296,unbeabsichtigter gewichtsverlust,C2363736
+tuberkulose,C0041296,nachtschweiss,C0028081
+tuberkulose,C0041296,abgeschlagenheit,C0015672
+tuberkulose,C0041296,belastungsdyspnoe,C0231807
+"tuberkulose , urogenitale",C0041333,dysurie,C0013428
+"tuberkulose , urogenitale",C0041333,haematurie,C0018965
+"tuberkulose , urogenitale",C0041333,prostatitis,C0033581
+"tuberkulose , urogenitale",C0041333,amenorrhoe,C0002453
+"tuberkulose , urogenitale",C0041333,metrorrhagie,C0025874
+"tuberkulose , urogenitale",C0041333,hypermenorrhoe,C0025323
+atypische mykobakteriose,C1740806,nachtschweiss,C0028081
+atypische mykobakteriose,C1740806,wasting - syndrom,C0043046
+atypische mykobakteriose,C1740806,diarrhoe,C0011991
+myxoedem,C0027145,trockene haut,C0151908
+myxoedem,C0027145,heiserkeit,C0019825
+myxoedem,C0027145,langsame sprache,C1859270
+myxoedem,C0027145,bradykardie,C0428977
+myxoedem,C0027145,kardiomegalie,C0018800
+"alveolitis , exogen – allergische",C0002390,fieber,C0015967
+"alveolitis , exogen – allergische",C0002390,reizhusten,C0859870
+"alveolitis , exogen – allergische",C0002390,dyspnoe,C0013404
+"alveolitis , exogen – allergische",C0002390,leukozytose,C0023518
+exogen - allergische alveolitis,C0002390,muedigkeit,C0015672
+exogen - allergische alveolitis,C0002390,abgeschlagenheit,C0015672
+exogen - allergische alveolitis,C0002390,husten,C0010200
+exogen - allergische alveolitis,C0002390,dyspnoe,C0013404
+exogen - allergische alveolitis,C0002390,zyanose,C0010520
+exogen - allergische alveolitis,C0002390,unbeabsichtigter gewichtsverlust,C2363736
+exogen - allergische alveolitis,C0002390,lungenfibrose,C0034069
+exogen - allergische alveolitis,C0002390,leukozytose,C0023518
+pertussis,C0043167,schnupfen,C0009443
+pertussis,C0043167,leichtes fieber,C1096446
+pertussis,C0043167,lymphozytose,C0024282
+pertussis,C0043167,reizhusten,C0859870
+pertussis,C0043167,erbrechen,C0042963
+gastrinom,C0017150,diarrhoe,C0011991
+gastrinom,C0017150,reflux - oesophagitis,C0014869
+gastrinom,C0017150,abdominalschmerzen,C0000737
+gastrinom,C0017150,steatorrhoe,C0038238
+gastrinom,C0017150,gastrin hoch,C0541977
+gastrinom,C0017150,andere peptische ulzera,C0497194
+gastrinom,C0017150,diarrhoe,C0011991
+gastrinom,C0017150,steatorrhoe,C0038238
+chronische gastritis,C0085695,uebelkeit,C0027497
+chronische gastritis,C0085695,voellegefuehl,C3714614
+morbus whipple,C0023788,malabsorptionssyndrom,C0024523
+morbus whipple,C0023788,abdominalschmerzen,C0000737
+morbus whipple,C0023788,diarrhoe,C0011991
+morbus whipple,C0023788,steatorrhoe,C0038238
+morbus whipple,C0023788,enteropathische arthritis,C0151435
+morbus whipple,C0023788,arthritis,C0003864
+morbus whipple,C0023788,sakroiliitis,C0574960
+morbus whipple,C0023788,fieber,C0015967
+morbus whipple,C0023788,polyserositis,C0151859
+morbus whipple,C0023788,lymphknotenvergroesserung,C0497156
+morbus whipple,C0023788,ataxie,C0004134
+morbus whipple,C0023788,polyserositis,C0151859
+morbus whipple,C0023788,arthritis,C0003864
+morbus whipple,C0023788,abdominalschmerzen,C0000737
+morbus whipple,C0023788,meteorismus,C1291077
+morbus whipple,C0023788,steatorrhoe,C0038238
+morbus whipple,C0023788,malabsorption,C3714745
+morbus whipple,C0023788,diarrhoe,C0011991
+morbus whipple,C0023788,fieber,C0015967
+morbus whipple,C0023788,unbeabsichtigter gewichtsverlust,C2363736
+morbus whipple,C0023788,belastungsdyspnoe,C0231807
+morbus whipple,C0023788,chronischer husten,C0010201
+morbus whipple,C0023788,angina pectoris,C0002962
+morbus whipple,C0023788,dyspnoe,C0013404
+morbus whipple,C0023788,arthralgie,C0003862
+morbus whipple,C0023788,endokarditis,C0014118
+morbus whipple,C0023788,eisenmangelanaemie,C0162316
+morbus whipple,C0023788,kopfschmerzen,C0018681
+morbus whipple,C0023788,apathie,C0085632
+morbus whipple,C0023788,parkinsonismus,C0242422
+morbus whipple,C0023788,sinnesorgane,C0036665
+morbus whipple,C0023788,tinnitus,C0040264
+morbus whipple,C0023788,ophthalmopathie nnb,C0015397
+zinkmangel,C0235950,diarrhoe,C0011991
+zinkmangel,C0235950,alopezie,C0002170
+magnesiummangel,C0024473,hyperreflexie,C0151889
+magnesiummangel,C0024473,paraesthesien und dysaesthesien,C0852415
+magnesiummangel,C0024473,tetanie,C0039621
+magnesiummangel,C0024473,arrhythmien,C0003811
+magnesiummangel,C0024473,extrasystolen,C0340464
+kaliummangel,C0032827,extrasystolen,C0340464
+kaliummangel,C0032827,muskelschwaeche,C0151786
+kaliummangel,C0032827,obstipation,C0009806
+kaliummangel,C0032827,polyurie,C0032617
+kaliummangel,C0032827,polydipsie,C0085602
+vitamin - a-mangel,C0042842,nachtblindheit,C0028077
+vitamin - a-mangel,C0042842,trockene haut,C0151908
+vitamin - a-mangel,C0042842,trockene schleimhaut,C0854113
+gluten - sensitive enteropathie,C0007570,diarrhoe,C0011991
+gluten - sensitive enteropathie,C0007570,steatorrhoe,C0038238
+gluten - sensitive enteropathie,C0007570,flatulenz,C0016204
+gluten - sensitive enteropathie,C0007570,obstipation,C0009806
+gluten - sensitive enteropathie,C0007570,appetitlosigkeit,C0003123
+gluten - sensitive enteropathie,C0007570,unbeabsichtigter gewichtsverlust,C2363736
+gluten - sensitive enteropathie,C0007570,infektanfaelligkeit erhoeht,C0236171
+gluten - sensitive enteropathie,C0007570,oedem,C0013604
+gluten - sensitive enteropathie,C0007570,aphthen,C0038363
+gluten - sensitive enteropathie,C0007570,muskelatrophie,C0026846
+gluten - sensitive enteropathie,C0007570,vitamin b12 - mangel,C0042847
+gluten - sensitive enteropathie,C0007570,folsaeuremangel,C0016412
+gluten - sensitive enteropathie,C0007570,megaloblastaere anaemie,C0002888
+gluten - sensitive enteropathie,C0007570,vitamin - k - mangel,C0042880
+gluten - sensitive enteropathie,C0007570,ekchymosen,C0013491
+gluten - sensitive enteropathie,C0007570,eisenmangelanaemie,C0162316
+gluten - sensitive enteropathie,C0007570,zungenbrennen,C0017672
+gluten - sensitive enteropathie,C0007570,blaesse,C0030232
+gluten - sensitive enteropathie,C0007570,rhagaden,C0221245
+gluten - sensitive enteropathie,C0007570,hypokalzaemie,C0020598
+gluten - sensitive enteropathie,C0007570,tetanie,C0039621
+gluten - sensitive enteropathie,C0007570,knochenschmerzen,C0151825
+gluten - sensitive enteropathie,C0007570,osteoporose,C0029456
+gluten - sensitive enteropathie,C0007570,nausea,C0027497
+gluten - sensitive enteropathie,C0007570,"hepatitis , chronische",C0019189
+gluten - sensitive enteropathie,C0007570,polyarthritis,C0162323
+gluten - sensitive enteropathie,C0007570,dermatitis herpetiformis,C0011608
+gluten - sensitive enteropathie,C0007570,anti-transglutaminase - antikoerper,C3203595
+gluten - sensitive enteropathie,C0007570,diarrhoe,C0011991
+gluten - sensitive enteropathie,C0007570,unbeabsichtigter gewichtsverlust,C2363736
+gluten - sensitive enteropathie,C0007570,malabsorptionssyndrom,C0024523
+gluten - sensitive enteropathie,C0007570,erythem,C0041834
+gluten - sensitive enteropathie,C0007570,eisenmangelanaemie,C0162316
+gluten - sensitive enteropathie,C0007570,zungenbrennen,C0017672
+gluten - sensitive enteropathie,C0007570,osteoporose,C0029456
+gluten - sensitive enteropathie,C0007570,hepatitis,C0019158
+gluten - sensitive enteropathie,C0007570,arthritis,C0003864
+gluten - sensitive enteropathie,C0007570,sonstige stuhlveraenderungen,C0478120
+gluten - sensitive enteropathie,C0007570,diarrhoe,C0011991
+gluten - sensitive enteropathie,C0007570,steatorrhoe,C0038238
+gluten - sensitive enteropathie,C0007570,flatulenz,C0016204
+gluten - sensitive enteropathie,C0007570,obstipation,C0009806
+gluten - sensitive enteropathie,C0007570,appetitlosigkeit,C0003123
+gluten - sensitive enteropathie,C0007570,malabsorption,C3714745
+gluten - sensitive enteropathie,C0007570,unbeabsichtigter gewichtsverlust,C2363736
+gluten - sensitive enteropathie,C0007570,infektanfaelligkeit erhoeht,C0236171
+gluten - sensitive enteropathie,C0007570,aphthen,C0038363
+gluten - sensitive enteropathie,C0007570,muskelatrophie,C0026846
+gluten - sensitive enteropathie,C0007570,folsaeuremangel,C0016412
+gluten - sensitive enteropathie,C0007570,vitaminmangel,C1510471
+gluten - sensitive enteropathie,C0007570,eisenmangelanaemie,C0162316
+gluten - sensitive enteropathie,C0007570,zungenbrennen,C0017672
+gluten - sensitive enteropathie,C0007570,blaesse,C0030232
+gluten - sensitive enteropathie,C0007570,rhagaden,C0221245
+gluten - sensitive enteropathie,C0007570,hypokalzaemie,C0020598
+gluten - sensitive enteropathie,C0007570,tetanie,C0039621
+gluten - sensitive enteropathie,C0007570,knochenschmerzen,C0151825
+gluten - sensitive enteropathie,C0007570,osteoporose,C0029456
+gluten - sensitive enteropathie,C0007570,nausea,C0027497
+"allergie , weizen",C0949570,pruritus,C0033774
+"allergie , weizen",C0949570,urtikaria,C0042109
+"allergie , weizen",C0949570,atopisches ekzem,C0011615
+"allergie , weizen",C0949570,atemnot,C0013404
+"allergie , weizen",C0949570,diarrhoe,C0011991
+"allergie , weizen",C0949570,uebelkeit,C0027497
+"allergie , weizen",C0949570,erbrechen,C0042963
+"allergie , weizen",C0949570,kraempfe,C0026821
+"allergie , weizen",C0949570,blaehungen,C1291077
+acrodermatitis enteropathica,C0221036,rezidivierende durchfaelle,C0401151
+menetrier - krankheit,C0017155,diarrhoe,C0011991
+menetrier - krankheit,C0017155,oedem,C0013604
+leukozytopenie,C0023530,stomatitis,C0038362
+leukozytopenie,C0023530,parodontitis,C0031099
+leukozytopenie,C0023530,sinusitis,C0037199
+leukozytopenie,C0023530,otitis media,C0029882
+leukozytopenie,C0023530,pharyngitis,C0031350
+leukozytopenie,C0023530,pneumonie,C0032285
+leukozytopenie,C0023530,furunkel,C0242301
+leukozytopenie,C0023530,lymphadenopathie,C0497156
+leukozytopenie,C0023530,fieber,C0015967
+cushing - krankheit,C0221406,haematom,C0018944
+cushing - krankheit,C0221406,hypercholesterinaemie,C0020443
+cushing - krankheit,C0221406,osteoporose,C0029456
+cushing - krankheit,C0221406,myopathie,C0026848
+cushing - krankheit,C0221406,adynamie,C0235704
+cushing - krankheit,C0221406,virilismus,C0042755
+cushing - krankheit,C0221406,hypokaliaemie,C0020621
+cushing - krankheit,C0221406,vollmondgesicht,C0332601
+cushing - krankheit,C0221406,stammfettsucht,C0311277
+cushing - krankheit,C0221406,hypertonie,C0020538
+cushing - krankheit,C0221406,hypogonadismus,C0020619
+cushing - krankheit,C0221406,myasthenie,C0947912
+cushing - krankheit,C0221406,hirsutismus,C0019572
+cushing - krankheit,C0221406,depression,C0011570
+hyperkaliaemie,C0020461,myasthenie,C0947912
+hyperkaliaemie,C0020461,paraesthesien und dysaesthesien,C0852415
+koronare herzkrankheit,C0010068,angina pectoris,C0002962
+koronare herzkrankheit,C0010068,angina pectoris,C0002962
+koronare herzkrankheit,C0010068,angst,C0003467
+osteoporose,C0029456,rundruecken,C0022822
+osteoporose,C0029456,frakturen,C0016658
+osteoporose,C0029456,rueckenschmerzen,C0004604
+ileus,C1258215,erbrechen,C0042963
+ileus,C1258215,meteorismus,C1291077
+ileus,C1258215,bauchschmerzen,C0000737
+leberzirrhose,C0023890,muedigkeit,C0015672
+leberzirrhose,C0023890,abgeschlagenheit,C0015672
+leberzirrhose,C0023890,abgeschlagenheit,C0015672
+leberzirrhose,C0023890,druckgefuehl,C0234222
+leberzirrhose,C0023890,meteorismus,C1291077
+leberzirrhose,C0023890,uebelkeit,C0027497
+leberzirrhose,C0023890,unbeabsichtigter gewichtsverlust,C2363736
+leberzirrhose,C0023890,libidoverlust,C2981158
+leberzirrhose,C0023890,impotenz,C0242350
+leberzirrhose,C0023890,hodenatrophie,C0156312
+leberzirrhose,C0023890,gynaekomastie,C0018418
+leberzirrhose,C0023890,amenorrhoe,C0002453
+leberzirrhose,C0023890,splenomegalie,C0038002
+leberzirrhose,C0023890,aszites,C0003962
+leberzirrhose,C0023890,foetor hepaticus,C0239571
+guillain - barre - syndrom,C0018378,stoerung der temperaturregulation,C0854171
+guillain - barre - syndrom,C0018378,herzfrequenz anomal,C1744601
+horner - syndrom,C0019937,miosis,C0026205
+horner - syndrom,C0019937,ptosis,C0033377
+horner - syndrom,C0019937,enophthalmus,C0014306
+augenmigraene,C0338481,skotom,C0036454
+augenmigraene,C0338481,schwindel,C0012833
+augenmigraene,C0338481,augenmuskellaehmung,C0029089
+morbus crohn,C0010346,sakroiliitis,C0574960
+morbus crohn,C0010346,episkleritis,C0014583
+morbus crohn,C0010346,keratitis,C0022568
+morbus crohn,C0010346,nephrolithiasis,C0392525
+morbus crohn,C0010346,anorexie,C0003123
+morbus crohn,C0010346,fieber,C0015967
+morbus crohn,C0010346,uebelkeit,C0027497
+morbus crohn,C0010346,erbrechen,C0042963
+morbus crohn,C0010346,unbeabsichtigter gewichtsverlust,C2363736
+morbus crohn,C0010346,muedigkeit,C0015672
+morbus crohn,C0010346,flatulenz,C0016204
+morbus crohn,C0010346,diarrhoe,C0011991
+morbus crohn,C0010346,erythema nodosum,C0014743
+morbus crohn,C0010346,arthritis,C0003864
+morbus crohn,C0010346,uveitis,C0042164
+morbus crohn,C0010346,vaskulitis,C0042384
+morbus crohn,C0010346,glomerulonephritis,C0017658
+morbus crohn,C0010346,fettleber,C0015695
+morbus crohn,C0010346,amyloidose,C0002726
+morbus crohn,C0010346,chronische diarrhoe,C0401151
+morbus crohn,C0010346,schmerzen im rechten unteren quadranten,C0694551
+morbus crohn,C0010346,gastrointestinale fisteln,C0079238
+morbus crohn,C0010346,analabszess,C0281778
+morbus crohn,C0010346,anaemie,C0002871
+morbus crohn,C0010346,acrodermatitis enteropathica,C0221036
+morbus crohn,C0010346,enteropathische arthritis,C0151435
+morbus crohn,C0010346,sakroiliitis,C0574960
+morbus crohn,C0010346,arthralgie,C0003862
+morbus crohn,C0010346,arthralgie,C0003862
+morbus crohn,C0010346,uveitis,C0042164
+morbus crohn,C0010346,iritis,C0022081
+morbus crohn,C0010346,episkleritis,C0014583
+morbus crohn,C0010346,erythema nodosum,C0014743
+morbus crohn,C0010346,pyoderma gangraenosum,C0085652
+morbus crohn,C0010346,stomatitis,C0038362
+plasmazellmyelom,C0026764,"frakturen , pathologische",C0016663
+plasmazellmyelom,C0026764,infektanfaelligkeit erhoeht,C0236171
+plasmazellmyelom,C0026764,osteolyse,C0221204
+plasmazellmyelom,C0026764,osteoporose,C0029456
+plasmazellmyelom,C0026764,niereninsuffizienz,C1565489
+plasmazellmyelom,C0026764,polyneuropathie,C0152025
+plasmazellmyelom,C0026764,muedigkeit,C0015672
+plasmazellmyelom,C0026764,dyspnoe,C0013404
+plasmazellmyelom,C0026764,thrombozytopenie,C0040034
+plasmazellmyelom,C0026764,leukozytopenie,C0023530
+plasmazellmyelom,C0026764,hyperkalzaemie,C0020437
+plasmazellmyelom,C0026764,proteinurie,C0033687
+plasmazellmyelom,C0026764,"immunglobuline , leichtketten",C0021038
+plasmazellmyelom,C0026764,anaemie,C0002871
+kolorektales karzinom,C1527249,unbeabsichtigter gewichtsverlust,C2363736
+kolorektales karzinom,C1527249,fieber,C0015967
+kolorektales karzinom,C1527249,blutungsanaemie,C0948824
+kolorektales karzinom,C1527249,abgeschlagenheit,C0015672
+kolorektales karzinom,C1527249,muedigkeit,C0015672
+kolorektales karzinom,C1527249,blut im stuhl,C1321898
+kolorektales karzinom,C1527249,ileus,C1258215
+kolorektales karzinom,C1527249,unbeabsichtigter gewichtsverlust,C2363736
+kolorektales karzinom,C1527249,abgeschlagenheit,C0015672
+kolorektales karzinom,C1527249,blaesse,C0030232
+kolorektales karzinom,C1527249,anaemie,C0002871
+myasthenia gravis,C0026896,myopathie,C0026848
+myasthenia gravis,C0026896,myopathie,C0026848
+myasthenia gravis,C0026896,muskelschwaeche,C0151786
+myasthenia gravis,C0026896,skoliose,C0036439
+myasthenia gravis,C0026896,ptosis,C0033377
+myasthenia gravis,C0026896,diplopie,C0012569
+myasthenia gravis,C0026896,dysphagie,C0011168
+myasthenia gravis,C0026896,dysarthrie,C0013362
+myasthenia gravis,C0026896,dyspnoe,C0013404
+myasthenia gravis,C0026896,fazialisparese,C0376175
+"arthritis , rheumatoide",C0003873,bruechige naegel,C0546956
+"arthritis , rheumatoide",C0003873,palmarerythem,C0014745
+"arthritis , rheumatoide",C0003873,polyarthritis,C0162323
+"arthritis , rheumatoide",C0003873,tendovaginitis,C0039520
+"arthritis , rheumatoide",C0003873,bursitis,C0006444
+"arthritis , rheumatoide",C0003873,bewegungsschmerz,C2363726
+"arthritis , rheumatoide",C0003873,schwellung,C0038999
+"arthritis , rheumatoide",C0003873,muskelatrophie,C0026846
+"arthritis , rheumatoide",C0003873,abgeschlagenheit,C0015672
+"arthritis , rheumatoide",C0003873,nachtschweiss,C0028081
+"arthritis , rheumatoide",C0003873,nachtschweiss,C0028081
+anaemie,C0002871,muedigkeit,C0015672
+anaemie,C0002871,kopfschmerzen,C0018681
+anaemie,C0002871,belastungsdyspnoe,C0231807
+anaemie,C0002871,sinustachykardie,C0039239
+anaemie,C0002871,schwindel,C0012833
+synkope,C0039070,bewusstlosigkeit,C0041657
+synkope,C0039070,schwindel,C0012833
+synkope,C0039070,blaesse,C0030232
+multiple sklerose,C0026769,optikusneuritis,C0029134
+multiple sklerose,C0026769,kribbeln,C0016579
+multiple sklerose,C0026769,sensibilitaetsstoerungen der haut,C0012766
+multiple sklerose,C0026769,ataxie,C0004134
+multiple sklerose,C0026769,retrobulbaerneuritis,C0085582
+multiple sklerose,C0026769,augenschmerzen,C0151827
+multiple sklerose,C0026769,optikusatrophie,C0029124
+multiple sklerose,C0026769,doppelbildersehen,C0012569
+multiple sklerose,C0026769,abduzensparese,C0271355
+multiple sklerose,C0026769,augenmuskellaehmung,C0029089
+multiple sklerose,C0026769,nystagmus,C0028738
+multiple sklerose,C0026769,depression,C0011570
+multiple sklerose,C0026769,spastischer gang,C0231687
+multiple sklerose,C0026769,ataxie,C0004134
+multiple sklerose,C0026769,spastik,C0026838
+multiple sklerose,C0026769,intentionstremor,C0234376
+multiple sklerose,C0026769,nystagmus,C0028738
+multiple sklerose,C0026769,trigeminusneuralgie,C0040997
+multiple sklerose,C0026769,erektile dysfunktion,C0242350
+multiple sklerose,C0026769,euphorie,C0235146
+multiple sklerose,C0026769,optikusneuritis,C0029134
+multiple sklerose,C0026769,sensibilitaetsstoerungen der haut,C0012766
+multiple sklerose,C0026769,doppelbildersehen,C0012569
+multiple sklerose,C0026769,paraesthesien und dysaesthesien,C0852415
+multiple sklerose,C0026769,hypaesthesie,C0020580
+multiple sklerose,C0026769,paraesthesien und dysaesthesien,C0852415
+multiple sklerose,C0026769,ataxie,C0004134
+multiple sklerose,C0026769,intentionstremor,C0234376
+multiple sklerose,C0026769,nystagmus,C0028738
+multiple sklerose,C0026769,harndrang,C0085606
+multiple sklerose,C0026769,inkontinenz,C0021167
+multiple sklerose,C0026769,harnverhalt,C0080274
+hypokaliaemie,C0020621,paralysen und paresen ( ausschl . hirnnerven ),C1697844
+hypokaliaemie,C0020621,obstipation,C0009806
+hypokaliaemie,C0020621,rhabdomyolyse,C0035410
+chronisch venoese insuffizienz,C1306557,varizen,C0042345
+chronisch venoese insuffizienz,C1306557,oedem,C0013604
+chronisch venoese insuffizienz,C1306557,paraesthesien und dysaesthesien,C0852415
+chronisch venoese insuffizienz,C1306557,oedem,C0013604
+chronisch venoese insuffizienz,C1306557,purpura,C0034150
+chronisch venoese insuffizienz,C1306557,haemosiderose,C0019114
+chronisch venoese insuffizienz,C1306557,hyperpigmentierung,C0162834
+chronisch venoese insuffizienz,C1306557,dermatosklerose,C0011644
+chronisch venoese insuffizienz,C1306557,lipodermatosklerose,C0406500
+chronisch venoese insuffizienz,C1306557,atrophie blanche,C1306862
+chronisch venoese insuffizienz,C1306557,stauungsekzem,C0011620
+chronisch venoese insuffizienz,C1306557,pruritus,C0033774
+chronisch venoese insuffizienz,C1306557,blaesse,C0030232
+chronisch venoese insuffizienz,C1306557,zyanose,C0010520
+cholelithiasis,C0008350,uebelkeit,C0027497
+cholelithiasis,C0008350,druckgefuehl,C0234222
+cholelithiasis,C0008350,nausea,C0027497
+cholelithiasis,C0008350,voellegefuehl,C3714614
+cholelithiasis,C0008350,erbrechen,C0042963
+cholelithiasis,C0008350,meteorismus,C1291077
+cholelithiasis,C0008350,uebelkeit,C0027497
+cholelithiasis,C0008350,erbrechen,C0042963
+cholelithiasis,C0008350,voellegefuehl,C3714614
+cholelithiasis,C0008350,meteorismus,C1291077
+hyperthyreose,C0020550,struma,C0018021
+hyperthyreose,C0020550,symptom von gereiztheit,C0022107
+hyperthyreose,C0020550,schlaflosigkeit,C0917801
+hyperthyreose,C0020550,sinustachykardie,C0039239
+hyperthyreose,C0020550,heisshunger,C0006370
+hyperthyreose,C0020550,schwitzen,C0038990
+hyperthyreose,C0020550,myopathie,C0026848
+hyperthyreose,C0020550,osteoporose,C0029456
+hyperthyreose,C0020550,fettleber,C0015695
+hyperthyreose,C0020550,ophthalmopathie nnb,C0015397
+hyperthyreose,C0020550,exophthalmus,C0015300
+hyperthyreose,C0020550,sinustachykardie,C0039239
+hyperthyreose,C0020550,unruhe,C3887611
+hyperthyreose,C0020550,schlafstoerungen,C0851578
+hyperthyreose,C0020550,arrhythmien,C0003811
+hyperthyreose,C0020550,hypertonie,C0020538
+hyperthyreose,C0020550,tremor,C0040822
+hyperthyreose,C0020550,unbeabsichtigter gewichtsverlust,C2363736
+hyperthyreose,C0020550,myasthenie,C0947912
+hyperthyreose,C0020550,diarrhoe,C0011991
+hyperthyreose,C0020550,alopezie,C0002170
+hyperthyreose,C0020550,unruhe,C3887611
+hyperthyreose,C0020550,unbeabsichtigter gewichtsverlust,C2363736
+hyperthyreose,C0020550,hypertonie,C0020538
+hyperthyreose,C0020550,diarrhoe,C0011991
+meningitis,C0025289,leukozytose,C0023518
+meningitis,C0025289,nackenschmerzen,C0007859
+meningitis,C0025289,erbrechen,C0042963
+meningitis,C0025289,verwirrtheit,C0009676
+meningitis,C0025289,fieber,C0015967
+meningitis,C0025289,kopfschmerzen,C0018681
+meningitis,C0025289,uebelkeit,C0027497
+meningitis,C0025289,nackensteifigkeit,C0151315
+meningitis,C0025289,opisthotonus,C0151818
+meningitis,C0025289,bewusstseinsstoerungen ane,C0947927
+meningitis,C0025289,apathie,C0085632
+meningitis,C0025289,kraempfe,C0026821
+meningitis,C0025289,stauungspapille,C0030353
+meningitis,C0025289,lichtscheu,C0085636
+meningitis,C0025289,petechien,C0031256
+meningitis,C0025289,kopfschmerzen,C0018681
+meningitis,C0025289,fieber,C0015967
+meningitis,C0025289,meningismus,C0025287
+meningitis,C0025289,bewusstseinsstoerungen ane,C0947927
+meningitis,C0025289,rueckenschmerzen,C0004604
+meningitis,C0025289,uebelkeit,C0027497
+chronische niereninsuffizienz,C0022661,kopfschmerzen,C0018681
+chronische niereninsuffizienz,C0022661,verwirrtheit,C0009676
+chronische niereninsuffizienz,C0022661,kraempfe,C0026821
+chronische niereninsuffizienz,C0022661,hyperkaliaemie,C0020461
+chronische niereninsuffizienz,C0022661,lungenoedem,C0034063
+chronische niereninsuffizienz,C0022661,foetor ex ore,C0018520
+chronische niereninsuffizienz,C0022661,pruritus,C0033774
+chronische niereninsuffizienz,C0022661,anaemie,C0002871
+chronische niereninsuffizienz,C0022661,bewusstlosigkeit,C0041657
+chronische niereninsuffizienz,C0022661,oedem,C0013604
+nephrotisches syndrom,C0027726,aszites,C0003962
+nephrotisches syndrom,C0027726,infektanfaelligkeit erhoeht,C0236171
+nephrotisches syndrom,C0027726,hypertonie,C0020538
+nephrotisches syndrom,C0027726,niereninsuffizienz,C1565489
+nephrotisches syndrom,C0027726,kreatinin hoch,C0151578
+nephrotisches syndrom,C0027726,cholesterin hoch,C1522133
+nephrotisches syndrom,C0027726,triglyzeride hoch,C0020557
+nephrotisches syndrom,C0027726,hypercholesterinaemie,C0020443
+nephrotisches syndrom,C0027726,lipidurie,C0392178
+nephrotisches syndrom,C0027726,oedem,C0013604
+nephrotisches syndrom,C0027726,proteinurie,C0033687
+uraemie,C0041948,somnolenz,C0013144
+uraemie,C0041948,amnesie,C0002622
+uraemie,C0041948,zeitlich - oertliche desorientierung,C1737242
+uraemie,C0041948,singultus,C0019521
+uraemie,C0041948,hirnoedem,C0006114
+uraemie,C0041948,amaurose,C0376288
+uraemie,C0041948,amblyopie,C0002418
+uraemie,C0041948,anorexie,C0003123
+uraemie,C0041948,aszites,C0003962
+uraemie,C0041948,gastritis,C0017152
+uraemie,C0041948,ulcus ventriculi,C0038358
+uraemie,C0041948,"sekundaerer hyperparathyreoidismus , anderenorts nicht klassifiziert",C0494305
+uraemie,C0041948,amenorrhoe,C0002453
+uraemie,C0041948,impotenz,C0242350
+uraemie,C0041948,anaemie,C0002871
+uraemie,C0041948,infektanfaelligkeit erhoeht,C0236171
+uraemie,C0041948,perikarditis,C0031046
+uraemie,C0041948,hiv - kardiomyopathie,C2721728
+uraemie,C0041948,hypertonie,C0020538
+uraemie,C0041948,lungenoedem,C0034063
+uraemie,C0041948,pleuritis,C0032231
+uraemie,C0041948,pruritus,C0033774
+uraemie,C0041948,amyloidose,C0002726
+hypothyreose,C0020676,muedigkeit,C0015672
+hypothyreose,C0020676,psychomotorische verlangsamung,C0424230
+hypothyreose,C0020676,blaesse,C0030232
+hypothyreose,C0020676,gewichtszunahme,C0043094
+hypothyreose,C0020676,kardiomegalie,C0018800
+hypothyreose,C0020676,hypercholesterinaemie,C0020443
+hypothyreose,C0020676,myopathie,C0026848
+hypothyreose,C0020676,infertilitaet,C0021359
+hypothyreose,C0020676,depression,C0011570
+hypothyreose,C0020676,hypothermie,C0020672
+hypothyreose,C0020676,hypoventilation,C3203358
+hypothyreose,C0020676,hypotonie,C0020649
+hypothyreose,C0020676,angeborene hypothyreose ohne struma,C0342151
+hypothyreose,C0020676,abgeschlagenheit,C0015672
+hypothyreose,C0020676,trockene haut,C0151908
+hypothyreose,C0020676,alopezie,C0002170
+hypothyreose,C0020676,bradykardie,C0428977
+hypothyreose,C0020676,myxoedem,C0027145
+hypothyreose,C0020676,obstipation,C0009806
+hypothyreose,C0020676,fettstoffwechselstoerungen,C0154251
+tuberkulose,C0041296,husten,C0010200
+tuberkulose,C0041296,lymphadenopathie,C0497156
+tuberkulose,C0041296,dyspnoe,C0013404
+tuberkulose,C0041296,fieber,C0015967
+tuberkulose,C0041296,nachtschweiss,C0028081
+tuberkulose,C0041296,unbeabsichtigter gewichtsverlust,C2363736
+tuberkulose,C0041296,inappetenz,C0232462
+tuberkulose,C0041296,unbeabsichtigter gewichtsverlust,C2363736
+tuberkulose,C0041296,nachtschweiss,C0028081
+tuberkulose,C0041296,abgeschlagenheit,C0015672
+tuberkulose,C0041296,belastungsdyspnoe,C0231807
+akutes abdomen,C0235295,nausea,C0027497
+akutes abdomen,C0235295,kolik,C0232488
+akutes abdomen,C0235295,erbrechen,C0042963
+pulmonale hypertonie,C0020542,sinustachykardie,C0039239
+pulmonale hypertonie,C0020542,schwindel,C0012833
+pulmonale hypertonie,C0020542,chronische stauungsleber,C0156195
+pulmonale hypertonie,C0020542,dyspnoe,C0013404
+pulmonale hypertonie,C0020542,husten,C0010200
+pulmonale hypertonie,C0020542,angina pectoris,C0002962
+pulmonale hypertonie,C0020542,muedigkeit,C0015672
+pulmonale hypertonie,C0020542,oedem,C0013604
+pulmonale hypertonie,C0020542,zyanose,C0010520
+granulomatose mit polyangiitis,C3495801,sinusitis,C0037199
+granulomatose mit polyangiitis,C3495801,otitis,C0029877
+granulomatose mit polyangiitis,C3495801,mastoiditis,C0024904
+granulomatose mit polyangiitis,C3495801,episkleritis,C0014583
+granulomatose mit polyangiitis,C3495801,arthralgie,C0003862
+granulomatose mit polyangiitis,C3495801,periphere neuropathie,C0031117
+granulomatose mit polyangiitis,C3495801,fieber,C0015967
+granulomatose mit polyangiitis,C3495801,unbeabsichtigter gewichtsverlust,C2363736
+granulomatose mit polyangiitis,C3495801,nachtschweiss,C0028081
+granulomatose mit polyangiitis,C3495801,rhinitis,C0035455
+granulomatose mit polyangiitis,C3495801,ulzerationen ane,C2609241
+granulomatose mit polyangiitis,C3495801,vaskulitis,C0042384
+hypoglykaemie,C0020615,zittern,C0542247
+hypoglykaemie,C0020615,schwitzen,C0038990
+hypoglykaemie,C0020615,palpitationen,C0030252
+hypoglykaemie,C0020615,sinustachykardie,C0039239
+hypoglykaemie,C0020615,heisshunger,C0006370
+hypoglykaemie,C0020615,blaesse,C0030232
+hypoglykaemie,C0020615,heisshunger,C0006370
+hypoglykaemie,C0020615,uebelkeit,C0027497
+hypoglykaemie,C0020615,erbrechen,C0042963
+hypoglykaemie,C0020615,schwaeche,C3714552
+hypoglykaemie,C0020615,unruhe,C3887611
+hypoglykaemie,C0020615,schwitzen,C0038990
+hypoglykaemie,C0020615,sinustachykardie,C0039239
+hypoglykaemie,C0020615,tremor,C0040822
+hypoglykaemie,C0020615,mydriasis,C0026961
+hypoglykaemie,C0020615,hypertonie,C0020538
+hypoglykaemie,C0020615,tachypnoe,C0231835
+hypoglykaemie,C0020615,kopfschmerzen,C0018681
+hypoglykaemie,C0020615,endokrines karzinom,C1704374
+hypoglykaemie,C0020615,reizbarkeit,C0022107
+hypoglykaemie,C0020615,automatismen,C0004377
+hypoglykaemie,C0020615,grimassieren,C0239779
+hypoglykaemie,C0020615,doppelbildersehen,C0012569
+hypoglykaemie,C0020615,somnolenz,C0013144
+depression,C0011570,dysthymie,C0013415
+depression,C0011570,depressive verstimmung,C0011570
+depression,C0011570,muedigkeit,C0015672
+aszites,C0003962,meteorismus,C1291077
+phaeochromozytom,C0031511,hypertonie,C0020538
+phaeochromozytom,C0031511,kopfschmerzen,C0018681
+phaeochromozytom,C0031511,schwitzen,C0038990
+phaeochromozytom,C0031511,palpitationen,C0030252
+phaeochromozytom,C0031511,tremor,C0040822
+phaeochromozytom,C0031511,unruhe,C3887611
+phaeochromozytom,C0031511,abdominalschmerzen,C0000737
+phaeochromozytom,C0031511,blaesse,C0030232
+phaeochromozytom,C0031511,glukosurie,C0017979
+phaeochromozytom,C0031511,leukozytose,C0023518
+phaeochromozytom,C0031511,unbeabsichtigter gewichtsverlust,C2363736
+phaeochromozytom,C0031511,hypermetabolismus,C0342952
+phaeochromozytom,C0031511,vasokonstriktion,C0042396
+phaeochromozytom,C0031511,sinustachykardie,C0039239
+phaeochromozytom,C0031511,glykogenolyse,C0596624
+ikterus,C0022346,leberzirrhose,C0023890
+ikterus,C0022346,hepatitis,C0019158
+glomerulonephritis,C0017658,nephrotisches syndrom,C0027726
+glomerulonephritis,C0017658,proteinurie,C0033687
+glomerulonephritis,C0017658,oedem,C0013604
+glomerulonephritis,C0017658,hyperlipoproteinaemie,C0020476
+glomerulonephritis,C0017658,hypertonie,C0020538
+hypotonie,C0020649,schwindel,C0012833
+hypotonie,C0020649,orthostatische dysregulation,C3203485
+hypotonie,C0020649,sinustachykardie,C0039239
+hypotonie,C0020649,kopfschmerzen,C0018681
+hypotonie,C0020649,blaesse,C0030232
+hypotonie,C0020649,tremor,C0040822
+aortendissektion,C0340643,schlaganfall,C0038454
+aortendissektion,C0340643,anurie,C0003460
+aortendissektion,C0340643,querschnittslaehmung,C0030486
+aortendissektion,C0340643,thoraxschmerz,C0008031
+aortendissektion,C0340643,angina pectoris,C0002962
+aortendissektion,C0340643,rueckenschmerzen,C0004604
+aortendissektion,C0340643,todesangst,C0235106
+aortendissektion,C0340643,herzbeuteltamponade,C0007177
+aortendissektion,C0340643,schock,C0036974
+tonsillitis,C0040425,foetor ex ore,C0018520
+tonsillitis,C0040425,lymphadenopathie,C0497156
+skabies,C0036262,pruritus,C0033774
+rechtsherzinsuffizienz,C0235527,zyanose,C0010520
+rechtsherzinsuffizienz,C0235527,oedem,C0013604
+rechtsherzinsuffizienz,C0235527,aszites,C0003962
+rechtsherzinsuffizienz,C0235527,hepatomegalie,C0019209
+rechtsherzinsuffizienz,C0235527,splenomegalie,C0038002
+rechtsherzinsuffizienz,C0235527,pleuraerguss,C0032227
+rechtsherzinsuffizienz,C0235527,nykturie,C0028734
+herpes zoster dermatitis,C0854330,blaeschen,C1622418
+herpes zoster dermatitis,C0854330,ekzema herpeticatum,C0022504
+benigne prostatahyperplasie,C1704272,pollakisurie,C0042023
+benigne prostatahyperplasie,C1704272,nykturie,C0028734
+pankreaskarzinom,C0235974,unbeabsichtigter gewichtsverlust,C2363736
+pankreaskarzinom,C0235974,rueckenschmerzen,C0004604
+pankreaskarzinom,C0235974,ikterus,C0022346
+pankreaskarzinom,C0235974,thrombophlebitis migrans,C0152250
+pankreaskarzinom,C0235974,uebelkeit,C0027497
+pankreaskarzinom,C0235974,brauner urin,C1142277
+pankreaskarzinom,C0235974,courviosier - zeichen,C1168162
+pankreaskarzinom,C0235974,pruritus,C0033774
+pankreaskarzinom,C0235974,diarrhoe,C0011991
+pankreaskarzinom,C0235974,steatorrhoe,C0038238
+pankreaskarzinom,C0235974,appetitlosigkeit,C0003123
+pankreaskarzinom,C0235974,voellegefuehl,C3714614
+pankreaskarzinom,C0235974,meteorismus,C1291077
+pankreaskarzinom,C0235974,unbeabsichtigter gewichtsverlust,C2363736
+pankreaskarzinom,C0235974,rueckenschmerzen,C0004604
+pankreaskarzinom,C0235974,glukoseintoleranz,C0271650
+pankreaskarzinom,C0235974,ikterus,C0022346
+pankreaskarzinom,C0235974,diarrhoe,C0011991
+pankreaskarzinom,C0235974,steatorrhoe,C0038238
+pankreaskarzinom,C0235974,unbeabsichtigter gewichtsverlust,C2363736
+pankreaskarzinom,C0235974,ikterus,C0022346
+pankreaskarzinom,C0235974,abdominalschmerzen,C0000737
+pankreaskarzinom,C0235974,inappetenz,C0232462
+pankreaskarzinom,C0235974,pruritus,C0033774
+pankreaskarzinom,C0235974,appetitlosigkeit,C0003123
+pankreaskarzinom,C0235974,unbeabsichtigter gewichtsverlust,C2363736
+pankreaskarzinom,C0235974,uebelkeit,C0027497
+pankreaskarzinom,C0235974,ikterus,C0022346
+pankreaskarzinom,C0235974,diarrhoe,C0011991
+pankreaskarzinom,C0235974,rueckenschmerzen,C0004604
+pankreaskarzinom,C0235974,pruritus,C0033774
+pankreaskarzinom,C0235974,hydrops der gallenblase,C0152445
+diabetes insipidus,C0011848,polyurie,C0032617
+diabetes insipidus,C0011848,polydipsie,C0085602
+hyperkalzaemie,C0020437,uebelkeit,C0027497
+hyperkalzaemie,C0020437,erbrechen,C0042963
+hyperkalzaemie,C0020437,obstipation,C0009806
+hyperkalzaemie,C0020437,nephrolithiasis,C0392525
+hyperkalzaemie,C0020437,nephrokalzinose,C0027709
+hyperkalzaemie,C0020437,polyurie,C0032617
+hyperkalzaemie,C0020437,polydipsie,C0085602
+hyperkalzaemie,C0020437,somnolenz,C0013144
+hyperkalzaemie,C0020437,koma,C0009421
+Pfeiffersches Druesenfieber,C0021345,fieber,C0015967
+Pfeiffersches Druesenfieber,C0021345,mundgeruch,C0018520
+Pfeiffersches Druesenfieber,C0021345,pharyngitis,C0031350
+Pfeiffersches Druesenfieber,C0021345,lymphadenopathie,C0497156
+Pfeiffersches Druesenfieber,C0021345,angina tonsillaris,C0031157
+eisenmangelanaemie,C0162316,pruritus,C0033774
+eisenmangelanaemie,C0162316,unruhe,C3887611
+eisenmangelanaemie,C0162316,dyspnoe,C0013404
+eisenmangelanaemie,C0162316,schwaeche,C3714552
+eisenmangelanaemie,C0162316,kopfschmerzen,C0018681
+eisenmangelanaemie,C0162316,sinustachykardie,C0039239
+eisenmangelanaemie,C0162316,belastungsdyspnoe,C0231807
+eisenmangelanaemie,C0162316,muedigkeit,C0015672
+eisenmangelanaemie,C0162316,tinnitus,C0040264
+eisenmangelanaemie,C0162316,abgeschlagenheit,C0015672
+eisenmangelanaemie,C0162316,schwindel,C0012833
+eisenmangelanaemie,C0162316,palpitationen,C0030252
+eisenmangelanaemie,C0162316,schlafstoerungen,C0851578
+eisenmangelanaemie,C0162316,kopfschmerzen,C0018681
+morbus hodgkin,C0852445,pruritus,C0033774
+morbus hodgkin,C0852445,splenomegalie,C0038002
+morbus hodgkin,C0852445,hepatomegalie,C0019209
+morbus hodgkin,C0852445,fieber,C0015967
+morbus hodgkin,C0852445,nachtschweiss,C0028081
+morbus hodgkin,C0852445,unbeabsichtigter gewichtsverlust,C2363736
+morbus hodgkin,C0852445,abgeschlagenheit,C0015672
+morbus hodgkin,C0852445,lymphadenopathie,C0497156
+morbus reiter,C0035012,"arthritis , reaktive",C0085435
+morbus reiter,C0035012,urethritis,C0041976
+morbus reiter,C0035012,konjunktivitis,C0009763
+morbus reiter,C0035012,konjunktivitis,C0009763
+morbus reiter,C0035012,urethritis,C0041976
+morbus reiter,C0035012,arthritis,C0003864
+morbus reiter,C0035012,konjunktivitis,C0009763
+morbus reiter,C0035012,urethritis,C0041976
+morbus reiter,C0035012,arthritis,C0003864
+schock,C0036974,zyanose,C0010520
+schock,C0036974,oligurie,C0028961
+schock,C0036974,tachypnoe,C0231835
+mukoviszidose,C0010674,husten,C0010200
+mukoviszidose,C0010674,bronchiektasen,C0006267
+mukoviszidose,C0010674,emphysem,C0013990
+mukoviszidose,C0010674,pankreasinsuffizienz,C0030293
+mukoviszidose,C0010674,diarrhoe,C0011991
+mukoviszidose,C0010674,kachexie,C0006625
+mukoviszidose,C0010674,zirrhose,C1623038
+mukoviszidose,C0010674,cholelithiasis,C0008350
+mukoviszidose,C0010674,infertilitaet,C0021359
+mukoviszidose,C0010674,mekoniumileus,C2939175
+mukoviszidose,C0010674,obstruktion,C0028778
+endokarditis,C0014118,fieber,C0015967
+endokarditis,C0014118,herzgeraeusche,C0018808
+endokarditis,C0014118,anorexie,C0003123
+endokarditis,C0014118,haematurie,C0018965
+Raynaud,C0034734,blaesse,C0030232
+Raynaud,C0034734,akrozyanose,C0221347
+Raynaud,C0034734,ischaemie,C0022116
+Raynaud,C0034734,zyanose,C0010520
+Raynaud,C0034734,hyperaemie,C0020452
+Raynaud,C0034734,schmerzen nnb,C0030193
+Schizophrenie,C0036341,verfolgungswahn,C1096426
+Schizophrenie,C0036341,liebeswahn,C0022492
+Schizophrenie,C0036341,beziehungswahn,C0233682
+Schizophrenie,C0036341,gedankeneingebung,C0233687
+Schizophrenie,C0036341,gedankenentzug,C0233686
+Schizophrenie,C0036341,gedankenausbreitung,C0233688
+Schizophrenie,C0036341,wahn,C0011253
+Schizophrenie,C0036341,euphorie,C0235146
+Schizophrenie,C0036341,affektive ambivalenz,C4049320
+Schizophrenie,C0036341,autismus,C0004352
+Schizophrenie,C0036341,depersonalisation,C0011551
+Schizophrenie,C0036341,derealisation,C0233754
+Schizophrenie,C0036341,halluzinationen,C0018524
+Schizophrenie,C0036341,wahnideen,C0011253
+Schizophrenie,C0036341,katatonie,C0007398
+subarachnoidalblutung,C0038525,kopfschmerzen,C0018681
+subarachnoidalblutung,C0038525,meningismus,C0025287
+subarachnoidalblutung,C0038525,bewusstseinsstoerungen ane,C0947927
+subarachnoidalblutung,C0038525,erbrechen,C0042963
+subarachnoidalblutung,C0038525,hypotonie,C0020649
+"hepatitis , alkoholische",C0019187,fettleber,C0015695
+polycythaemia,C0032461,erythrozytose,C1527405
+polycythaemia,C0032461,ldh,C0202113
+polycythaemia,C0032461,basophilie,C0702266
+polycythaemia,C0032461,roetung,C0041834
+polycythaemia,C0032461,pruritus,C0033774
+polycythaemia,C0032461,erythromelalgie,C0014804
+polycythaemia,C0032461,schwindel,C0012833
+polycythaemia,C0032461,kopfschmerzen,C0018681
+polycythaemia,C0032461,muedigkeit,C0015672
+polycythaemia,C0032461,epistaxis,C0014591
+polycythaemia,C0032461,sehstoerungen,C0547030
+polycythaemia,C0032461,hypertonie,C0020538
+morbus behcet,C0004943,pseudofollikulitis,C0406191
+morbus behcet,C0004943,erythema nodosum,C0014743
+morbus behcet,C0004943,vaskulitis,C0042384
+morbus behcet,C0004943,uveitis anterior,C0042165
+morbus behcet,C0004943,uveitis posterior,C0042167
+morbus behcet,C0004943,arthritis,C0003864
+morbus behcet,C0004943,chron ulcera haut ( inkl varikoes ),C0157738
+morbus behcet,C0004943,vaskulitis,C0042384
+morbus behcet,C0004943,aphthen,C0038363
+morbus behcet,C0004943,uveitis,C0042164
+delir,C0011206,bewusstseinsstoerungen ane,C0947927
+delir,C0011206,orientierungsstoerung,C0233407
+delir,C0011206,akathisie,C0392156
+delir,C0011206,agitiertheit,C0085631
+delir,C0011206,halluzinationen,C0018524
+delir,C0011206,tremor,C0040822
+delir,C0011206,hypertonie,C0020538
+delir,C0011206,sinustachykardie,C0039239
+delir,C0011206,hyperthermie,C0015967
+orthostasesyndrom,C0020651,hypotonie,C0020649
+orthostasesyndrom,C0020651,schwindel,C0012833
+orthostasesyndrom,C0020651,bewusstseinsstoerungen ane,C0947927
+dermatomyositis,C0011633,myositis,C0027121
+dermatomyositis,C0011633,fieber,C0015967
+dermatomyositis,C0011633,dermatomyositis,C0011633
+dermatomyositis,C0011633,dysphagie,C0011168
+dermatomyositis,C0011633,myokarditis,C0027059
+dermatomyositis,C0011633,alveolitis,C0549493
+dermatomyositis,C0011633,lungenfibrose,C0034069
+dermatomyositis,C0011633,arthritis,C0003864
+dermatomyositis,C0011633,leukozytose,C0023518
+dermatomyositis,C0011633,erytheme,C0041834
+dermatomyositis,C0011633,livedo reticularis,C0085642
+dermatomyositis,C0011633,"atrophie , muskel",C0026846
+dermatomyositis,C0011633,calcinosis cutis,C0006664
+sichelzellanaemie,C0002895,hypoxie,C0242184
+sichelzellanaemie,C0002895,dehydratation,C0011175
+sichelzellanaemie,C0002895,azidose,C0001122
+sichelzellanaemie,C0002895,haemolyse,C0019054
+haemochromatose,C0018995,hypogonadismus,C0020619
+haemochromatose,C0018995,arthralgie,C0003862
+haemochromatose,C0018995,leberzirrhose,C0023890
+haemochromatose,C0018995,pseudogicht,C0033802
+haemochromatose,C0018995,infertilitaet,C0021359
+"enzephalopathie , hepatische",C0019151,verwirrung,C0009676
+"enzephalopathie , hepatische",C0019151,schlaefrigkeit,C0013144
+"enzephalopathie , hepatische",C0019151,psychomotorische verlangsamung,C0424230
+"enzephalopathie , hepatische",C0019151,schlafstoerungen,C0851578
+"enzephalopathie , hepatische",C0019151,apathie,C0085632
+"enzephalopathie , hepatische",C0019151,flattertremor,C0232766
+"enzephalopathie , hepatische",C0019151,foetor hepaticus,C0239571
+"enzephalopathie , hepatische",C0019151,tremor,C0040822
+"enzephalopathie , hepatische",C0019151,somnolenz,C0013144
+"enzephalopathie , hepatische",C0019151,sopor,C1142109
+amyloidose,C0002726,proteinurie,C0033687
+amyloidose,C0002726,oedem,C0013604
+amyloidose,C0002726,periphere neuropathie,C0031117
+amyloidose,C0002726,hepatomegalie,C0019209
+amyloidose,C0002726,makroglossie,C0009677
+amyloidose,C0002726,arthralgie,C0003862
+amyloidose,C0002726,alopezie,C0002170
+akutes respiratorisches distress – syndrom,C0035222,hyperventilation,C0020578
+akutes respiratorisches distress – syndrom,C0035222,"alkalose , respiratorische",C0002064
+akutes respiratorisches distress – syndrom,C0035222,atemnot,C0013404
+akutes respiratorisches distress – syndrom,C0035222,respiratorische insuffizienz,C0035229
+akutes respiratorisches distress – syndrom,C0035222,hyperkapnie,C0020440
+akutes respiratorisches distress – syndrom,C0035222,respiratorische azidose,C0001127
+akutes respiratorisches distress – syndrom,C0035222,tachypnoe,C0231835
+akutes respiratorisches distress – syndrom,C0035222,dyspnoe,C0013404
+akutes respiratorisches distress – syndrom,C0035222,zyanose,C0010520
+akutes respiratorisches distress – syndrom,C0035222,unruhe,C3887611
+akutes respiratorisches distress – syndrom,C0035222,verwirrtheit,C0009676
+hypertensive kardiomyopathie,C1144799,kopfschmerzen,C0018681
+hypertensive kardiomyopathie,C1144799,schwindel,C0012833
+hypertensive kardiomyopathie,C1144799,epistaxis,C0014591
+hypertensive kardiomyopathie,C1144799,sehstoerungen,C0547030
+hypertensive kardiomyopathie,C1144799,verwirrtheit,C0009676
+hypertensive kardiomyopathie,C1144799,dyspnoe,C0013404
+hypertensive kardiomyopathie,C1144799,angina pectoris,C0002962
+hypertensive kardiomyopathie,C1144799,oligurie,C0028961
+exsikkose,C0011175,agitiertheit,C0085631
+exsikkose,C0011175,somnolenz,C0013144
+exsikkose,C0011175,oligurie,C0028961
+exsikkose,C0011175,hypotonie,C0020649
+exsikkose,C0011175,rheologie,C0035423
+primaerer hyperaldosteronismus,C1384514,hypertonie,C0020538
+primaerer hyperaldosteronismus,C1384514,hypokaliaemie,C0020621
+primaerer hyperaldosteronismus,C1384514,metabolische alkalose,C0220983
+primaerer hyperaldosteronismus,C1384514,hypertonie,C0020538
+primaerer hyperaldosteronismus,C1384514,hypokaliaemie,C0020621
+primaerer hyperaldosteronismus,C1384514,metabolische alkalose,C0220983
+cor pulmonale,C0034072,belastungsdyspnoe,C0231807
+cor pulmonale,C0034072,sinustachykardie,C0039239
+cor pulmonale,C0034072,schwindel,C0012833
+cor pulmonale,C0034072,angina pectoris,C0002962
+gastrooesophageale refluxkrankheit,C0017168,druckgefuehl,C0234222
+gastrooesophageale refluxkrankheit,C0017168,meteorismus,C1291077
+gastrooesophageale refluxkrankheit,C0017168,flatulenz,C0016204
+gastrooesophageale refluxkrankheit,C0017168,schluckbeschwerden,C0011168
+gastrooesophageale refluxkrankheit,C0017168,regurgitation,C2004489
+gastrooesophageale refluxkrankheit,C0017168,uebelkeit,C0027497
+gastrooesophageale refluxkrankheit,C0017168,erbrechen,C0042963
+gastrooesophageale refluxkrankheit,C0017168,sodbrennen,C0018834
+gastrooesophageale refluxkrankheit,C0017168,dysphagie,C0011168
+gastrooesophageale refluxkrankheit,C0017168,angina pectoris,C0002962
+gastrooesophageale refluxkrankheit,C0017168,schmerzen nnb,C0030193
+gastrooesophageale refluxkrankheit,C0017168,sodbrennen,C0018834
+gastrooesophageale refluxkrankheit,C0017168,druckgefuehl,C0234222
+gastrooesophageale refluxkrankheit,C0017168,regurgitation,C2004489
+psoriasis,C0033860,retinoide,C0035339
+psoriasis,C0033860,daktylitis,C0239161
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,zytopenie,C0010828
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,anaemie,C0002871
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,infektanfaelligkeit erhoeht,C0236171
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,fieber,C0015967
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,blutungsneigung,C0019087
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,splenomegalie,C0038002
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,hepatomegalie,C0019209
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,lymphome ane,C0947757
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,monozytopenie,C0427544
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,bizytopenie,C1142446
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,panzytopenie,C0030312
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,retikulozytopenie,C0858867
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,leukozytose,C0023518
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,thrombozytopenie,C0040034
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,leukozytopenie,C0023530
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,makrozytose,C0085662
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,poikilozytose,C0221281
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,polychromasie,C0333942
+myelodysplastisches syndrom nicht klassifizierbar,C1268964,anisozytose,C0221278
+respiratorische insuffizienz,C1145670,todesangst,C0235106
+respiratorische insuffizienz,C1145670,bewusstseinsstoerungen ane,C0947927
+respiratorische insuffizienz,C1145670,polyglobulie,C1868945
+respiratorische insuffizienz,C1145670,trommelschlegelfinger,C0009080
+respiratorische insuffizienz,C1145670,schlafstoerungen,C0851578
+respiratorische insuffizienz,C1145670,kopfschmerzen,C0018681
+respiratorische insuffizienz,C1145670,dyspnoe,C0013404
+respiratorische insuffizienz,C1145670,zyanose,C0010520
+respiratorische insuffizienz,C1145670,unruhe,C3887611
+respiratorische insuffizienz,C1145670,verwirrtheit,C0009676
+respiratorische insuffizienz,C1145670,sinustachykardie,C0039239
+linksherzinsuffizienz,C0023212,orthopnoe,C0085619
+linksherzinsuffizienz,C0023212,asthma cardiale,C1956414
+linksherzinsuffizienz,C0023212,lungenoedem,C0034063
+linksherzinsuffizienz,C0023212,zyanose,C0010520
+linksherzinsuffizienz,C0023212,dyspnoe,C0013404
+linksherzinsuffizienz,C0023212,husten,C0010200
+linksherzinsuffizienz,C0023212,rasselgeraeusche lunge,C0035508
+linksherzinsuffizienz,C0023212,abgeschlagenheit,C0015672
+linksherzinsuffizienz,C0023212,unruhe,C3887611
+linksherzinsuffizienz,C0023212,oedem,C0013604
+ischialgie,C0549346,paraesthesien und dysaesthesien,C0852415
+wernicke - enzephalopathie,C0043121,polyneuropathie,C0152025
+wernicke - enzephalopathie,C0043121,dysdiadochokinese,C0234979
+wernicke - enzephalopathie,C0043121,dysphagie,C0011168
+wernicke - enzephalopathie,C0043121,dysarthrie,C0013362
+wernicke - enzephalopathie,C0043121,hypotonie,C0020649
+morbus wilson,C0019202,anaemie,C0002871
+morbus wilson,C0019202,tremor,C0040822
+morbus wilson,C0019202,leberbiopsie,C0193388
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,abdominalschmerzen,C0000737
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,leukozytose,C0023518
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,erbrechen,C0042963
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+divertikulitis,C0012813,obstipation,C0009806
+divertikulitis,C0012813,diarrhoe,C0011991
+divertikulitis,C0012813,flatulenz,C0016204
+divertikulitis,C0012813,uebelkeit,C0027497
+divertikulitis,C0012813,schmerzen nnb,C0030193
+divertikulitis,C0012813,fieber,C0015967
+morbus meniere,C0025281,drehschwindel,C0042571
+morbus meniere,C0025281,schwindel,C0012833
+morbus meniere,C0025281,sonstiger hoerverlust,C0494562
+morbus meniere,C0025281,tinnitus,C0040264
+morbus meniere,C0025281,drehschwindel,C0042571
+morbus meniere,C0025281,uebelkeit,C0027497
+morbus meniere,C0025281,erbrechen,C0042963
+morbus meniere,C0025281,tinnitus,C0040264
+non-hodgkin - lymphom,C0024305,leukozytopenie,C0023530
+non-hodgkin - lymphom,C0024305,ldh,C0202113
+non-hodgkin - lymphom,C0024305,"gammopathie , monoklonale",C1136085
+non-hodgkin - lymphom,C0024305,splenomegalie,C0038002
+non-hodgkin - lymphom,C0024305,hepatomegalie,C0019209
+non-hodgkin - lymphom,C0024305,fieber,C0015967
+non-hodgkin - lymphom,C0024305,unbeabsichtigter gewichtsverlust,C2363736
+non-hodgkin - lymphom,C0024305,nachtschweiss,C0028081
+non-hodgkin - lymphom,C0024305,anaemie,C0002871
+non-hodgkin - lymphom,C0024305,abgeschlagenheit,C0015672
+non-hodgkin - lymphom,C0024305,muedigkeit,C0015672
+non-hodgkin - lymphom,C0024305,thrombozytopenie,C0040034
+non-hodgkin - lymphom,C0024305,blutungsneigung,C0019087
+non-hodgkin - lymphom,C0024305,petechien,C0031256
+non-hodgkin - lymphom,C0024305,granulozytopenie,C0001824
+non-hodgkin - lymphom,C0024305,hypogammaglobulinaemie,C0086438
+non-hodgkin - lymphom,C0024305,infektanfaelligkeit erhoeht,C0236171
+katarakt,C0086543,kapsulorhexis,C0525027
+katarakt,C0086543,phakektomie,C1956311
+enzephalitis,C0014038,fieber,C0015967
+enzephalitis,C0014038,lichtempfindlichkeit,C0085636
+enzephalitis,C0014038,opisthotonus,C0151818
+enzephalitis,C0014038,bewusstseinsstoerungen ane,C0947927
+enzephalitis,C0014038,kopfschmerzen,C0018681
+malaria,C0024530,kopfschmerzen,C0018681
+malaria,C0024530,splenomegalie,C0038002
+malaria,C0024530,hepatomegalie,C0019209
+malaria,C0024530,ikterus,C0022346
+malaria,C0024530,uebelkeit,C0027497
+malaria,C0024530,erbrechen,C0042963
+malaria,C0024530,diarrhoe,C0011991
+malaria,C0024530,haemolytische anaemie,C0002878
+malaria,C0024530,thrombozytopenie,C0040034
+malaria,C0024530,leukozytopenie,C0023530
+malaria,C0024530,hypoglykaemie,C0020615
+malaria,C0024530,lungenoedem,C0034063
+malaria,C0024530,kreislaufschock,C0036974
+malaria,C0024530,nierenversagen,C0035078
+malaria,C0024530,fieber,C0015967
+malaria,C0024530,schuettelfrost,C0085593
+pyelonephritis,C0034186,brechreiz,C0027497
+pyelonephritis,C0034186,erbrechen,C0042963
+pyelonephritis,C0034186,subileus,C0919671
+pyelonephritis,C0034186,kopfschmerzen,C0018681
+pyelonephritis,C0034186,fieber,C0015967
+pyelonephritis,C0034186,schuettelfrost,C0085593
+pyelonephritis,C0034186,dysurie,C0013428
+pyelonephritis,C0034186,schmerzen nnb,C0030193
+pyelonephritis,C0034186,rueckenschmerzen,C0004604
+pityriasis rosea,C0032026,tinea corporis,C0040252
+pityriasis rosea,C0032026,ekzem,C0013595
+pityriasis rosea,C0032026,syphilis,C0039128
+pityriasis rosea,C0032026,psoriasis,C0033860
+pityriasis rosea,C0032026,pityriasis alba,C0085657
+gilbert syndrom,C0017551,haemolyse,C0019054
+prostatakarzinom,C0600139,sonstige miktionsstoerungen,C0478132
+prostatakarzinom,C0600139,pollakisurie,C0042023
+prostatakarzinom,C0600139,dysurie,C0013428
+prostatakarzinom,C0600139,nykturie,C0028734
+prostatakarzinom,C0600139,inkontinenz,C0021167
+prostatakarzinom,C0600139,pollakisurie,C0042023
+prostatakarzinom,C0600139,nykturie,C0028734
+prostatakarzinom,C0600139,dysurie,C0013428
+prostatakarzinom,C0600139,haematurie,C0018965
+prostatakarzinom,C0600139,haematospermie,C0149707
+prostatakarzinom,C0600139,abgeschlagenheit,C0015672
+prostatakarzinom,C0600139,abgeschlagenheit,C0015672
+prostatakarzinom,C0600139,anaemie,C0002871
+down - syndrom,C0013080,makroglossie,C0009677
+down - syndrom,C0013080,klinodaktylie,C0265610
+hepatitis,C0019158,druckschmerz,C0234233
+hepatitis,C0019158,diarrhoe,C0011991
+hepatitis,C0019158,arthralgie,C0003862
+hepatitis,C0019158,exanthem,C0015230
+hepatitis,C0019158,abgeschlagenheit,C0015672
+hepatitis,C0019158,appetitlosigkeit,C0003123
+hepatitis,C0019158,uebelkeit,C0027497
+agranulozytose,C0001824,fieber,C0015967
+agranulozytose,C0001824,angina tonsillaris,C0031157
+agranulozytose,C0001824,stomatitis aphtosa,C0038363
+benigner paroxysmaler lagerungsschwindel,C0155502,nystagmus,C0028738
+benigner paroxysmaler lagerungsschwindel,C0155502,uebelkeit,C0027497
+benigner paroxysmaler lagerungsschwindel,C0155502,drehschwindel,C0042571
+benigner paroxysmaler lagerungsschwindel,C0155502,drehschwindel,C0042571
+benigner paroxysmaler lagerungsschwindel,C0155502,nystagmus,C0028738
+benigner paroxysmaler lagerungsschwindel,C0155502,uebelkeit,C0027497
+benigner paroxysmaler lagerungsschwindel,C0155502,akuter drehschwindel,C1739421
+benigner paroxysmaler lagerungsschwindel,C0155502,uebelkeit,C0027497
+benigner paroxysmaler lagerungsschwindel,C0155502,rotierender nystagmus,C0240595
+chronische lymphatische leukaemie,C0023434,fieber,C0015967
+chronische lymphatische leukaemie,C0023434,unbeabsichtigter gewichtsverlust,C2363736
+chronische lymphatische leukaemie,C0023434,infektanfaelligkeit erhoeht,C0236171
+chronische lymphatische leukaemie,C0023434,thrombozytopenie,C0040034
+chronische lymphatische leukaemie,C0023434,anaemie,C0002871
+chronische lymphatische leukaemie,C0023434,granulozytopenie,C0001824
+chronische lymphatische leukaemie,C0023434,mgus,C0026470
+chronische lymphatische leukaemie,C0023434,leukozytose,C0023518
+chronische lymphatische leukaemie,C0023434,hepatomegalie,C0019209
+chronische lymphatische leukaemie,C0023434,urtikaria,C0042109
+chronische lymphatische leukaemie,C0023434,purpura,C0034150
+chronische lymphatische leukaemie,C0023434,lymphadenopathie,C0497156
+chronische lymphatische leukaemie,C0023434,abgeschlagenheit,C0015672
+chronische lymphatische leukaemie,C0023434,nachtschweiss,C0028081
+chronische lymphatische leukaemie,C0023434,splenomegalie,C0038002
+chronische lymphatische leukaemie,C0023434,pruritus,C0033774
+chronische lymphatische leukaemie,C0023434,chronische urtikaria,C0263338
+chronische lymphatische leukaemie,C0023434,herpes zoster dermatitis,C0854330
+chronische lymphatische leukaemie,C0023434,mykosen,C0026946
+aorteninsuffizienz,C0003504,angina pectoris,C0002962
+aorteninsuffizienz,C0003504,palpitationen,C0030252
+aorteninsuffizienz,C0003504,dyspnoe,C0013404
+aorteninsuffizienz,C0003504,unruhe,C3887611
+aorteninsuffizienz,C0003504,palpitationen,C0030252
+aorteninsuffizienz,C0003504,asthmaanfall,C0038218
+aorteninsuffizienz,C0003504,linksherzversagen,C0023212
+migraene,C0149931,aura,C0236018
+migraene,C0149931,lichtempfindlichkeit,C0085636
+migraene,C0149931,uebelkeit,C0027497
+migraene,C0149931,kopfschmerz unter koerperlicher belastung,C2363911
+migraene,C0149931,appetitlosigkeit,C0003123
+migraene,C0149931,kopfschmerzen,C0018681
+migraene,C0149931,phonophobie,C0751466
+migraene,C0149931,photophobie,C0085636
+migraene,C0149931,erbrechen,C0042963
+migraene,C0149931,uebelkeit,C0027497
+migraene,C0149931,schwindel,C0012833
+migraene,C0149931,aphasie,C0003537
+transitorische ischaemische attacke,C0007787,sehstoerungen,C0547030
+transitorische ischaemische attacke,C0007787,hoerstoerungen,C0260662
+transitorische ischaemische attacke,C0007787,sprachstoerungen,C0852418
+chronische myeloische leukaemie,C0023473,leukozytose,C0023518
+chronische myeloische leukaemie,C0023473,splenomegalie,C0038002
+chronische myeloische leukaemie,C0023473,blastenschub,C0005699
+chronische myeloische leukaemie,C0023473,leukozytose,C0023518
+chronische myeloische leukaemie,C0023473,splenomegalie,C0038002
+chronische myeloische leukaemie,C0023473,muedigkeit,C0015672
+chronische myeloische leukaemie,C0023473,abgeschlagenheit,C0015672
+chronische myeloische leukaemie,C0023473,nachtschweiss,C0028081
+chronische myeloische leukaemie,C0023473,harnsaeure hoch,C0920063
+bronchiektase,C0006267,husten,C0010200
+bronchiektase,C0006267,lungenabszess nnb,C0024110
+systemischer lupus erythematodes,C0024141,fieber,C0015967
+systemischer lupus erythematodes,C0024141,unbeabsichtigter gewichtsverlust,C2363736
+systemischer lupus erythematodes,C0024141,lymphadenopathie,C0497156
+systemischer lupus erythematodes,C0024141,myositis,C0027121
+systemischer lupus erythematodes,C0024141,polyarthritis,C0162323
+systemischer lupus erythematodes,C0024141,schuppen,C0221244
+systemischer lupus erythematodes,C0024141,alopezie,C0002170
+systemischer lupus erythematodes,C0024141,lichtempfindlichkeit,C0085636
+systemischer lupus erythematodes,C0024141,myokarditis,C0027059
+systemischer lupus erythematodes,C0024141,perikarditis,C0031046
+systemischer lupus erythematodes,C0024141,pleuritis,C0032231
+systemischer lupus erythematodes,C0024141,lupusnephritis,C0024143
+systemischer lupus erythematodes,C0024141,depression,C0011570
+systemischer lupus erythematodes,C0024141,autoimmunhaemolytische anaemie,C0002880
+systemischer lupus erythematodes,C0024141,thrombozytopenie,C0040034
+systemischer lupus erythematodes,C0024141,leukozytopenie,C0023530
+systemischer lupus erythematodes,C0024141,fieber,C0015967
+systemischer lupus erythematodes,C0024141,muedigkeit,C0015672
+systemischer lupus erythematodes,C0024141,unbeabsichtigter gewichtsverlust,C2363736
+systemischer lupus erythematodes,C0024141,arthralgie,C0003862
+systemischer lupus erythematodes,C0024141,arthritis,C0003864
+systemischer lupus erythematodes,C0024141,lichtempfindlichkeit,C0085636
+systemischer lupus erythematodes,C0024141,maculoeses exanthem,C0221201
+systemischer lupus erythematodes,C0024141,multiple teleangiektasien,C0235499
+systemischer lupus erythematodes,C0024141,alopecia effluvium,C0852968
+systemischer lupus erythematodes,C0024141,alopezie,C0002170
+systemischer lupus erythematodes,C0024141,psychosen,C0033975
+systemischer lupus erythematodes,C0024141,kopfschmerzen,C0018681
+systemischer lupus erythematodes,C0024141,pleuritis,C0032231
+systemischer lupus erythematodes,C0024141,perikarditis,C0031046
+systemischer lupus erythematodes,C0024141,proteinurie,C0033687
+systemischer lupus erythematodes,C0024141,lupusnephritis,C0024143
+systemischer lupus erythematodes,C0024141,uebelkeit,C0027497
+systemischer lupus erythematodes,C0024141,diarrhoe,C0011991
+systemischer lupus erythematodes,C0024141,cheilitis,C0007971
+systemischer lupus erythematodes,C0024141,oesophagitis,C0014868
+systemischer lupus erythematodes,C0024141,hepatitis,C0019158
+systemischer lupus erythematodes,C0024141,konjunktivitis,C0009763
+thyreotoxische krise,C0040127,sinustachykardie,C0039239
+thyreotoxische krise,C0040127,hyperthermie,C0015967
+thyreotoxische krise,C0040127,flush,C0016382
+thyreotoxische krise,C0040127,nausea,C0027497
+thyreotoxische krise,C0040127,erbrechen,C0042963
+thyreotoxische krise,C0040127,diarrhoe,C0011991
+thyreotoxische krise,C0040127,tremor,C0040822
+thyreotoxische krise,C0040127,bulbaerparalyse,C4082299
+thyreotoxische krise,C0040127,exsikkose,C0011175
+hirnoedem,C1527311,kopfschmerzen,C0018681
+hirnoedem,C1527311,uebelkeit,C0027497
+hirnoedem,C1527311,schwindel,C0012833
+haemorrhoiden,C0019112,analabszess,C0281778
+haemorrhoiden,C0019112,anaemie,C0002871
+haemorrhoiden,C0019112,analfissur,C0016167
+haemorrhoiden,C0019112,marisken,C2363872
+haemorrhoiden,C0019112,pruritus ani,C0033775
+haemorrhoiden,C0019112,rektumprolaps,C0034888
+haemorrhoiden,C0019112,kolorektales karzinom,C0009402
+ulcus ventriculi,C0038358,meteorismus,C1291077
+ulcus ventriculi,C0038358,uebelkeit,C0027497
+ulcus ventriculi,C0038358,appetitlosigkeit,C0003123
+ulcus ventriculi,C0038358,unbeabsichtigter gewichtsverlust,C2363736
+alpha - 1 proteinase - inhibitormangel,C0221757,husten,C0010200
+alpha - 1 proteinase - inhibitormangel,C0221757,dyspnoe,C0013404
+alpha - 1 proteinase - inhibitormangel,C0221757,atemwegsobstruktion nnb,C0001883
+alpha - 1 proteinase - inhibitormangel,C0221757,lungenemphysem,C0034067
+alpha - 1 proteinase - inhibitormangel,C0221757,cholestatischer ikterus,C0022354
+alpha - 1 proteinase - inhibitormangel,C0221757,leberenzyme anomal,C0438237
+alpha - 1 proteinase - inhibitormangel,C0221757,hepatomegalie,C0019209
+cushing - syndrom,C0010481,vollmondgesicht,C0332601
+cushing - syndrom,C0010481,stammfettsucht,C0311277
+cushing - syndrom,C0010481,myasthenie,C0947912
+cushing - syndrom,C0010481,hypertonie,C0020538
+cushing - syndrom,C0010481,hypokaliaemie,C0020621
+cushing - syndrom,C0010481,hypernatriaemie,C0020488
+cushing - syndrom,C0010481,hypervolaemie,C0546817
+cushing - syndrom,C0010481,hirsutismus,C0019572
+cushing - syndrom,C0010481,osteoporose,C0029456
+cushing - syndrom,C0010481,hypertonie,C0020538
+cushing - syndrom,C0010481,hypokaliaemie,C0020621
+cushing - syndrom,C0010481,hypernatriaemie,C0020488
+ovarialkarzinom,C0029925,sonstige miktionsstoerungen,C0478132
+ovarialkarzinom,C0029925,meteorismus,C1291077
+ovarialkarzinom,C0029925,voellegefuehl,C3714614
+ovarialkarzinom,C0029925,aszites,C0003962
+ovarialkarzinom,C0029925,dysmenorrhoe,C0013390
+ovarialkarzinom,C0029925,unbeabsichtigter gewichtsverlust,C2363736
+ovarialkarzinom,C0029925,abgeschlagenheit,C0015672
+ovarialkarzinom,C0029925,sonstige stuhlveraenderungen,C0478120
+ovarialkarzinom,C0029925,sonstige miktionsstoerungen,C0478132
+ovarialkarzinom,C0029925,flatulenz / meteorismus / aufstossen,C0016205
+ovarialkarzinom,C0029925,voellegefuehl,C3714614
+ovarialkarzinom,C0029925,aszites,C0003962
+ovarialkarzinom,C0029925,dysmenorrhoe,C0013390
+ovarialkarzinom,C0029925,unbeabsichtigter gewichtsverlust,C2363736
+ovarialkarzinom,C0029925,abgeschlagenheit,C0015672
+ovarialkarzinom,C0029925,kachexie,C0006625
+aplastische anaemie,C0002874,panzytopenie,C0030312
+aplastische anaemie,C0002874,neutropenie,C0027947
+aplastische anaemie,C0002874,blaesse,C0030232
+aplastische anaemie,C0002874,dyspnoe,C0013404
+aplastische anaemie,C0002874,nasenbluten,C0014591
+aplastische anaemie,C0002874,thrombozytopenie,C0040034
+aplastische anaemie,C0002874,anaemie,C0002871
+aplastische anaemie,C0002874,ulzerationen ane,C2609241
+aplastische anaemie,C0002874,gingivitis,C0017574
+aplastische anaemie,C0002874,pneumonie,C0032285
+aplastische anaemie,C0002874,sepsis,C0243026
+aplastische anaemie,C0002874,haematom,C0018944
+aplastische anaemie,C0002874,granulozytopenie,C0001824
+aplastische anaemie,C0002874,petechien,C0031256
+aplastische anaemie,C0002874,menstruation verlaengert,C0425945
+aplastische anaemie,C0002874,anaemie,C0002871
+aplastische anaemie,C0002874,mundulzera,C0149745
+aplastische anaemie,C0002874,gingivitis,C0017574
+aplastische anaemie,C0002874,tonsillitis,C0040425
+aplastische anaemie,C0002874,pneumonie,C0032285
+aplastische anaemie,C0002874,phlegmone,C0007642
+aplastische anaemie,C0002874,leukoplakie,C0023531
+aplastische anaemie,C0002874,leberzirrhose,C0023890
+aplastische anaemie,C0002874,lungenfibrose,C0034069
+gonorrhoe,C0018081,urethritis,C0041976
+gonorrhoe,C0018081,zervizitis,C0007860
+gonorrhoe,C0018081,bartholinitis,C0004769
+gonorrhoe,C0018081,pruritus,C0033774
+gonorrhoe,C0018081,proktitis,C0033246
+gonorrhoe,C0018081,vaskulitis,C0042384
+gonorrhoe,C0018081,arthritis,C0003864
+av knoten - reentry - tachykardie,C0039232,hypotonie,C0020649
+av knoten - reentry - tachykardie,C0039232,schwindel,C0012833
+av knoten - reentry - tachykardie,C0039232,sinustachykardie,C0039239
+av knoten - reentry - tachykardie,C0039232,sinustachykardie,C0039239
+varizellen,C0008049,exanthem,C0015230
+varizellen,C0008049,fieber,C0015967
+varizellen,C0008049,kopfschmerzen,C0018681
+varizellen,C0008049,pruritus,C0033774
+bronchopneumonie,C0006285,husten,C0010200
+bronchopneumonie,C0006285,fieber,C0015967
+syndrom der vorderen spinalarterie,C0221069,schmerzen nnb,C0030193
+syndrom der vorderen spinalarterie,C0221069,nystagmus,C0028738
+syndrom der vorderen spinalarterie,C0221069,sehstoerungen,C0547030
+syndrom der vorderen spinalarterie,C0221069,ohrgeraeusche,C0040264
+syndrom der vorderen spinalarterie,C0221069,sensibilitaetsstoerungen der haut,C0012766
+syndrom der vorderen spinalarterie,C0221069,uebelkeit,C0027497
+syndrom der vorderen spinalarterie,C0221069,zerebellaere ataxie,C0007758
+lambert - eaton syndrom,C0022972,ptosis,C0033377
+lambert - eaton syndrom,C0022972,obstipation,C0009806
+fibromyalgie,C0016053,hyperhidrosis,C0020458
+fibromyalgie,C0016053,tremor,C0040822
+fibromyalgie,C0016053,globusgefuehl des pharynx,C0423600
+katatonie,C0007398,stupor,C0085628
+katatonie,C0007398,flexibilitas cerea,C0233612
+katatonie,C0007398,mutismus,C0026884
+katatonie,C0007398,echolalie,C0013528
+schwartz - bartter - syndrom,C0021141,appetitlosigkeit,C0003123
+schwartz - bartter - syndrom,C0021141,muskelkraempfe,C0026821
+schwartz - bartter - syndrom,C0021141,persoenlichkeitsveraenderung,C0240735
+schwartz - bartter - syndrom,C0021141,stupor,C0085628
+schwartz - bartter - syndrom,C0021141,hyponatriaemie,C0020625
+schwartz - bartter - syndrom,C0021141,uebelkeit,C0027497
+schwartz - bartter - syndrom,C0021141,erbrechen,C0042963
+schwartz - bartter - syndrom,C0021141,kopfschmerzen,C0018681
+schwartz - bartter - syndrom,C0021141,inappetenz,C0232462
+schwartz - bartter - syndrom,C0021141,reizbarkeit,C0022107
+von - willebrand - krankheit,C0042974,epistaxis,C0014591
+von - willebrand - krankheit,C0042974,zahnextraktion,C0040440
+von - willebrand - krankheit,C0042974,menorrhagie,C0025323
+von - willebrand - krankheit,C0042974,haemarthros,C0018924
+bleivergiftung,C0023176,bleisaum,C0544864
+bleivergiftung,C0023176,polyneuropathie,C0152025
+bleivergiftung,C0023176,enzephalopathie,C0085584
+zervixkarzinom,C0302592,metrorrhagie,C0025874
+zervixkarzinom,C0302592,fluor,C0016330
+zervixkarzinom,C0302592,schmerzen nnb,C0030193
+leberinsuffizienz,C1306571,foetor hepaticus,C0239571
+leberinsuffizienz,C1306571,tremor,C0040822
+leberinsuffizienz,C1306571,koma,C0009421
+leberinsuffizienz,C1306571,hypotonie,C0020649
+leberinsuffizienz,C1306571,hyperventilation,C0020578
+leberinsuffizienz,C1306571,pruritus,C0033774
+diphtherie,C0012546,rachendiphtherie,C0012556
+diphtherie,C0012546,fieber,C0015967
+diphtherie,C0012546,erbrechen,C0042963
+diphtherie,C0012546,husten,C0010200
+diphtherie,C0012546,myokarditis,C0027059
+diphtherie,C0012546,polyneuritis,C0032541
+diphtherie,C0012546,pneumonie,C0032285
+akromegalie,C0001206,makroglossie,C0009677
+akromegalie,C0001206,kopfschmerzen,C0018681
+akromegalie,C0001206,hypertonie,C0020538
+akromegalie,C0001206,hyperhidrosis,C0020458
+akromegalie,C0001206,hypertrichose,C0020555
+akromegalie,C0001206,arthralgie,C0003862
+akromegalie,C0001206,hypaesthesie,C0020580
+akromegalie,C0001206,sehstoerungen,C0547030
+antiphospholipidsyndrom,C0085278,sehverlust,C0456909
+antiphospholipidsyndrom,C0085278,sonstiger hoerverlust,C0494562
+antiphospholipidsyndrom,C0085278,krampfanfall,C0036572
+antiphospholipidsyndrom,C0085278,migraene,C0149931
+antiphospholipidsyndrom,C0085278,nierenvenenthrombose,C0238457
+antiphospholipidsyndrom,C0085278,proteinurie,C0033687
+antiphospholipidsyndrom,C0085278,hypertonie,C0020538
+antiphospholipidsyndrom,C0085278,thrombozytopenie,C0040034
+antiphospholipidsyndrom,C0085278,haemolyse,C0019054
+antiphospholipidsyndrom,C0085278,anaemie,C0002871
+antiphospholipidsyndrom,C0085278,blutung,C0019080
+antiphospholipidsyndrom,C0085278,raynaud,C0034734
+antiphospholipidsyndrom,C0085278,livedo reticularis,C0085642
+antiphospholipidsyndrom,C0085278,myokardinfarkt,C0027051
+antiphospholipidsyndrom,C0085278,embolie,C0013922
+antiphospholipidsyndrom,C0085278,schlaganfall,C0038454
+antiphospholipidsyndrom,C0085278,"abort , habitueller",C0000809
+hyperaldosteronismus,C0020428,hypertonie,C0020538
+hyperaldosteronismus,C0020428,hypokaliaemie,C0020621
+hyperaldosteronismus,C0020428,metabolische alkalose,C0220983
+arthritis,C0003864,trauma,C0043251
+arthritis,C0003864,atemwegsinfektion,C0035243
+schilddruesenkarzinom,C0007115,dysphagie,C0011168
+schilddruesenkarzinom,C0007115,dyspnoe,C0013404
+schilddruesenkarzinom,C0007115,husten,C0010200
+zerebrale venenthrombose,C0151945,druckschmerz,C0234233
+zerebrale venenthrombose,C0151945,sehstoerungen,C0547030
+zerebrale venenthrombose,C0151945,schmerzen nnb,C0030193
+zerebrale venenthrombose,C0151945,oedem,C0013604
+zerebrale venenthrombose,C0151945,epileptischer anfall,C0014544
+zerebrale venenthrombose,C0151945,kopfschmerzen,C0018681
+zerebrale venenthrombose,C0151945,uebelkeit,C0027497
+zerebrale venenthrombose,C0151945,sehstoerungen,C0547030
+zerebrale venenthrombose,C0151945,fieber,C0015967
+zerebrale venenthrombose,C0151945,leukozytose,C0023518
+zerebrale venenthrombose,C0151945,fokale anfaelle,C0751495
+zerebrale venenthrombose,C0151945,abduzensparese,C0271355
+zerebrale venenthrombose,C0151945,stauungspapille,C0030353
+laehmung des nervus laryngeus recurrens,C0542142,atemnot,C0013404
+laehmung des nervus laryngeus recurrens,C0542142,stridor,C0038450
+nierenzellkarzinom,C0007134,haematurie,C0018965
+nierenzellkarzinom,C0007134,varikozele,C0042341
+nierenzellkarzinom,C0007134,hyperkalzaemie,C0020437
+nierenzellkarzinom,C0007134,hypertonie,C0020538
+nierenzellkarzinom,C0007134,polyglobulie,C1868945
+nierenzellkarzinom,C0007134,flankenschmerz,C0016199
+nierenzellkarzinom,C0007134,unbeabsichtigter gewichtsverlust,C2363736
+nierenzellkarzinom,C0007134,abgeschlagenheit,C0015672
+nierenzellkarzinom,C0007134,fieber,C0015967
+nierenzellkarzinom,C0007134,anaemie,C0002871
+urolithiasis,C0451641,erbrechen,C0042963
+urolithiasis,C0451641,subileus,C0919671
+urolithiasis,C0451641,haematurie,C0018965
+urolithiasis,C0451641,mikrohaematurie,C0239937
+urolithiasis,C0451641,harnleiterkolik,C0152169
+urolithiasis,C0451641,brechreiz,C0027497
+influenza,C0021400,husten,C0010200
+influenza,C0021400,fieber,C0015967
+influenza,C0021400,dysphagie,C0011168
+influenza,C0021400,kopfschmerzen,C0018681
+influenza,C0021400,schuettelfrost,C0085593
+clostridien - gastroenteritis,C0520764,gasbrand,C1963891
+clostridien - gastroenteritis,C0520764,peritonitis,C0031154
+clostridien - gastroenteritis,C0520764,lebensmittelvergiftung,C0016479
+clostridien - gastroenteritis,C0520764,nekrotisierende enterokolitis,C0520459
+clostridien - gastroenteritis,C0520764,botulismus,C0006057
+clostridien - gastroenteritis,C0520764,tetanus,C0039614
+clostridien - gastroenteritis,C0520764,pseudomembranoese kolitis,C1257843
+reye syndrom,C0035400,erbrechen,C0042963
+reye syndrom,C0035400,hypoglykaemie,C0020615
+reye syndrom,C0035400,enzephalopathie,C0085584
+reye syndrom,C0035400,erbrechen,C0042963
+reye syndrom,C0035400,somnolenz,C0013144
+reye syndrom,C0035400,lethargie,C0023380
+reye syndrom,C0035400,leberfunktionsstoerung,C0086565
+porphyrie,C0032708,adynamie,C0235704
+porphyrie,C0032708,polyneuropathie,C0152025
+porphyrie,C0032708,paraesthesien und dysaesthesien,C0852415
+porphyrie,C0032708,bauchschmerzen,C0000737
+porphyrie,C0032708,uebelkeit,C0027497
+porphyrie,C0032708,kraempfe,C0026821
+porphyrie,C0032708,paralysen und paresen ( ausschl . hirnnerven ),C1697844
+porphyrie,C0032708,psychiatrische symptome ane,C0852553
+porphyrie,C0032708,sinustachykardie,C0039239
+porphyrie,C0032708,hypertonie,C0020538
+fazialisparese,C0376175,nasolabialfalte,C0221328
+fazialisparese,C0376175,platysma,C0224176
+kawasaki syndrom,C0026691,stomatitis,C0038362
+kawasaki syndrom,C0026691,palmarerythem,C0014745
+kawasaki syndrom,C0026691,fieber,C0015967
+kawasaki syndrom,C0026691,lymphadenopathie,C0497156
+kawasaki syndrom,C0026691,exanthem,C0015230
+kawasaki syndrom,C0026691,enanthem,C0014034
+kawasaki syndrom,C0026691,himbeerzunge,C0241262
+kawasaki syndrom,C0026691,konjunktivitis,C0009763
+diabetische nephropathie,C0011881,albuminurie,C0001925
+diabetische nephropathie,C0011881,hyperlipidaemie,C0020473
+scharlach,C0036285,dysphagie,C0011168
+scharlach,C0036285,husten,C0010200
+scharlach,C0036285,erbrechen,C0042963
+scharlach,C0036285,kopfschmerzen,C0018681
+scharlach,C0036285,pharyngitis,C0031350
+scharlach,C0036285,angina tonsillaris,C0031157
+scharlach,C0036285,enanthem,C0014034
+scharlach,C0036285,himbeerzunge,C0241262
+scharlach,C0036285,exanthem,C0015230
+scharlach,C0036285,blaesse,C0030232
+scharlach,C0036285,fieber,C0015967
+scharlach,C0036285,uebelkeit,C0027497
+scharlach,C0036285,tonsillitis,C0040425
+gastritis,C0017152,bauchschmerzen,C0000737
+gastritis,C0017152,voellegefuehl,C3714614
+gastritis,C0017152,nausea,C0027497
+gastritis,C0017152,erbrechen,C0042963
+gastritis,C0017152,inappetenz,C0232462
+spannungspneumothorax,C0264558,sinustachykardie,C0039239
+spannungspneumothorax,C0264558,dyspnoe,C0013404
+spannungspneumothorax,C0264558,hypotonie,C0020649
+spannungspneumothorax,C0264558,zyanose,C0010520
+spannungspneumothorax,C0264558,hypoxie,C0242184
+spannungspneumothorax,C0264558,schock,C0036974
+cholesteatom,C0008373,ohrenschmerzen,C0013456
+cholesteatom,C0008373,schallleitungsschwerhoerigkeit,C0018777
+cholesteatom,C0008373,kopfschmerzen,C0018681
+cholesteatom,C0008373,fieber,C0015967
+perikarditis,C0031046,angina pectoris,C0002962
+perikarditis,C0031046,lymphozytose,C0024282
+"hydrozephalus , normaldruck",C0020258,gangstoerungen,C0575081
+"hydrozephalus , normaldruck",C0020258,harninkontinenz,C0042024
+"hydrozephalus , normaldruck",C0020258,kleinschrittiger gang,C1112468
+"hydrozephalus , normaldruck",C0020258,harninkontinenz,C0042024
+oesophaguskarzinom,C0152018,schluckbeschwerden,C0011168
+oesophaguskarzinom,C0152018,unbeabsichtigter gewichtsverlust,C2363736
+oesophaguskarzinom,C0152018,schmerzen nnb,C0030193
+oesophaguskarzinom,C0152018,melaena,C0025222
+oesophaguskarzinom,C0152018,haematemesis,C0018926
+oesophaguskarzinom,C0152018,regurgitation,C2004489
+oesophaguskarzinom,C0152018,erbrechen,C0042963
+oesophaguskarzinom,C0152018,oesophageale dysphagie,C0267072
+oesophaguskarzinom,C0152018,rueckenschmerzen,C0004604
+oesophaguskarzinom,C0152018,appetitlosigkeit,C0003123
+oesophaguskarzinom,C0152018,heiserkeit,C0019825
+oesophaguskarzinom,C0152018,regurgitation,C2004489
+oesophaguskarzinom,C0152018,schluckbeschwerden,C0011168
+oesophaguskarzinom,C0152018,angina pectoris,C0002962
+oesophaguskarzinom,C0152018,hypersalivation,C0037036
+oesophaguskarzinom,C0152018,hypersalivation,C0037036
+oesophaguskarzinom,C0152018,heiserkeit,C0019825
+oesophaguskarzinom,C0152018,dysphagie,C0011168
+hepatozellulaeres karzinom,C2239176,pfortaderthrombose,C0155773
+hepatozellulaeres karzinom,C2239176,druckschmerz,C0234233
+hepatozellulaeres karzinom,C2239176,abmagerung,C0013911
+hepatozellulaeres karzinom,C2239176,aszites,C0003962
+hepatozellulaeres karzinom,C2239176,fieber,C0015967
+hepatozellulaeres karzinom,C2239176,polyglobulie,C1868945
+essentielle thrombozythaemie,C0040028,sehstoerungen,C0547030
+essentielle thrombozythaemie,C0040028,kopfschmerzen,C0018681
+essentielle thrombozythaemie,C0040028,schwindel,C0012833
+essentielle thrombozythaemie,C0040028,tinnitus,C0040264
+essentielle thrombozythaemie,C0040028,nachtschweiss,C0028081
+essentielle thrombozythaemie,C0040028,epistaxis,C0014591
+essentielle thrombozythaemie,C0040028,zahnfleischbluten,C0017565
+essentielle thrombozythaemie,C0040028,haematom,C0018944
+essentielle thrombozythaemie,C0040028,paraesthesien und dysaesthesien,C0852415
+essentielle thrombozythaemie,C0040028,erythromelalgie,C0014804
+essentielle thrombozythaemie,C0040028,erythromelalgie,C0014804
+essentielle thrombozythaemie,C0040028,schwindel,C0012833
+essentielle thrombozythaemie,C0040028,kopfschmerzen,C0018681
+essentielle thrombozythaemie,C0040028,sehstoerungen,C0547030
+essentielle thrombozythaemie,C0040028,haemorrhagische diathese,C0019087
+essentielle thrombozythaemie,C0040028,splenomegalie,C0038002
+essentielle thrombozythaemie,C0040028,hyperurikaemie,C0740394
+essentielle thrombozythaemie,C0040028,leukozytose,C0023518
+schlafapnoesyndrom der oberen luftwege,C0751761,mundatmung,C0026635
+schlafapnoesyndrom der oberen luftwege,C0751761,schallleitungsschwerhoerigkeit,C0018777
+schlafapnoesyndrom der oberen luftwege,C0751761,schnarchen,C0037384
+schlafapnoesyndrom der oberen luftwege,C0751761,husten,C0010200
+chronische bronchitis,C0008677,auskultation,C0004339
+gehirntumor boesartig,C0153633,kopfschmerzen,C0018681
+gehirntumor boesartig,C0153633,nausea,C0027497
+gehirntumor boesartig,C0153633,erbrechen,C0042963
+gehirntumor boesartig,C0153633,krampfanfaelle,C0036572
+gehirntumor boesartig,C0153633,stauungspapille,C0030353
+subclavian - steal syndrom,C0038531,schwindel,C0012833
+subclavian - steal syndrom,C0038531,bewusstlosigkeit,C0041657
+subclavian - steal syndrom,C0038531,sehstoerungen,C0547030
+subclavian - steal syndrom,C0038531,ohrgeraeusche,C0040264
+subclavian - steal syndrom,C0038531,sensibilitaetsstoerungen der haut,C0012766
+subclavian - steal syndrom,C0038531,zerebellaere ataxie,C0007758
+subclavian - steal syndrom,C0038531,paraesthesien und dysaesthesien,C0852415
+subclavian - steal syndrom,C0038531,schmerzen nnb,C0030193
+subclavian - steal syndrom,C0038531,blaesse,C0030232
+myokarditis,C0027059,muedigkeit,C0015672
+myokarditis,C0027059,fieber,C0015967
+myokarditis,C0027059,diarrhoe,C0011991
+myokarditis,C0027059,husten,C0010200
+myokarditis,C0027059,exanthem,C0015230
+myokarditis,C0027059,thoraxschmerz,C0008031
+myokarditis,C0027059,palpitationen,C0030252
+intertrigo,C0021807,brennen,C0085624
+intertrigo,C0021807,pruritus,C0033774
+cholangitis,C0008311,schmerzen nnb,C0030193
+cholangitis,C0008311,ikterus,C0022346
+cholangitis,C0008311,fieber,C0015967
+cholangitis,C0008311,fieber,C0015967
+cholangitis,C0008311,ikterus,C0022346
+primaer sklerosierende cholangitis,C0566602,ikterus,C0022346
+primaer sklerosierende cholangitis,C0566602,muedigkeit,C0015672
+primaer sklerosierende cholangitis,C0566602,abgeschlagenheit,C0015672
+primaer sklerosierende cholangitis,C0566602,hepatomegalie,C0019209
+primaer sklerosierende cholangitis,C0566602,splenomegalie,C0038002
+primaer sklerosierende cholangitis,C0566602,pruritus,C0033774
+primaer sklerosierende cholangitis,C0566602,cholestase,C0008370
+karzinoid - syndrom,C0024586,asthmaanfall,C0038218
+karzinoid - syndrom,C0024586,flush,C0016382
+karzinoid - syndrom,C0024586,diarrhoe,C0011991
+myeloproliferative erkrankungen ( ausschl . leukaemien ),C0852437,leukozytose,C0023518
+myeloproliferative erkrankungen ( ausschl . leukaemien ),C0852437,basophilie,C0702266
+myeloproliferative erkrankungen ( ausschl . leukaemien ),C0852437,splenomegalie,C0038002
+myeloproliferative erkrankungen ( ausschl . leukaemien ),C0852437,fibrose,C0016059
+myeloproliferative erkrankungen ( ausschl . leukaemien ),C0852437,blastenschub,C0005699
+akute gastritis,C0149518,schmerzen nnb,C0030193
+akute gastritis,C0149518,erbrechen,C0042963
+akute gastritis,C0149518,teerstuhl,C0025222
+akute gastritis,C0149518,normozytaere anaemie,C0085577
+akute gastritis,C0149518,uebelkeit,C0027497
+akute gastritis,C0149518,voellegefuehl,C3714614
+akute gastritis,C0149518,aufstossen,C0014724
+akute gastritis,C0149518,meteorismus,C1291077
+rachitis,C0035579,kraniotabes,C0392452
+rachitis,C0035579,rachitischer rosenkranz,C0426824
+rachitis,C0035579,tetanie,C0039621
+rachitis,C0035579,krampfanfaelle,C0036572
+rachitis,C0035579,karies,C0011334
+uterine myomatose,C3888977,menorrhagie,C0025323
+uterine myomatose,C3888977,metrorrhagie,C0025874
+uterine myomatose,C3888977,harnblase,C0005682
+uterine myomatose,C3888977,akutes abdomen,C0000727
+uterine myomatose,C3888977,anaemie,C0002871
+uterine myomatose,C3888977,infertilitaet,C0021359
+akute myeloische leukaemie,C0023467,abgeschlagenheit,C0015672
+akute myeloische leukaemie,C0023467,fieber,C0015967
+akute myeloische leukaemie,C0023467,nachtschweiss,C0028081
+akute myeloische leukaemie,C0023467,infektanfaelligkeit erhoeht,C0236171
+akute myeloische leukaemie,C0023467,petechien,C0031256
+akute myeloische leukaemie,C0023467,anaemie,C0002871
+otitis media,C0029882,ohrenschmerzen,C0013456
+otitis media,C0029882,schallleitungsschwerhoerigkeit,C0018777
+otitis media,C0029882,mittelohrerguss,C0029883
+commotio cerebri,C0006107,vaskulitis,C0042384
+commotio cerebri,C0006107,kopfschmerzen,C0018681
+commotio cerebri,C0006107,schwindel,C0012833
+refluxoesophagitis,C0014869,dysphagie,C0011168
+refluxoesophagitis,C0014869,angina pectoris,C0002962
+zystitis,C0010692,dysurie,C0013428
+zystitis,C0010692,nykturie,C0028734
+zystitis,C0010692,pollakisurie,C0042023
+divertikulose,C1510475,blutung,C0019080
+divertikulose,C1510475,perforation,C0549099
+divertikulose,C1510475,peritonitis,C0031154
+fazialisparese,C0376175,mimische muskulatur,C0086625
+fazialisparese,C0376175,sprechstoerung,C0037822
+fazialisparese,C0376175,hoerstoerung,C0260662
+taucherkrankheit,C0011119,schmerzen nnb,C0030193
+taucherkrankheit,C0011119,mikroembolien der lunge,C0520546
+taucherkrankheit,C0011119,oedem,C0013604
+taucherkrankheit,C0011119,sensibilitaetsstoerungen der haut,C0012766
+taucherkrankheit,C0011119,sonstiger hoerverlust,C0494562
+taucherkrankheit,C0011119,sehverlust,C0456909
+taucherkrankheit,C0011119,bewusstlosigkeit,C0041657
+taucherkrankheit,C0011119,atemstillstand,C0162297
+lewy - koerper - demenz,C0752347,halluzinationen,C0018524
+lewy - koerper - demenz,C0752347,verminderte vigilanz,C0920048
+lewy - koerper - demenz,C0752347,sonstige stuerze auf gleicher ebene,C0478875
+urosepsis,C0149801,schuettelfrost,C0085593
+urosepsis,C0149801,fieber,C0015967
+urosepsis,C0149801,sinustachykardie,C0039239
+urosepsis,C0149801,tachypnoe,C0231835
+urosepsis,C0149801,hypotonie,C0020649
+urosepsis,C0149801,zyanose,C0010520
+urosepsis,C0149801,oligurie,C0028961
+Wallenberg Syndrom,C0043019,dysphonie,C1527344
+Wallenberg Syndrom,C0043019,dysarthrie,C0013362
+Wallenberg Syndrom,C0043019,hypaesthesie,C0020580
+Wallenberg Syndrom,C0043019,hypakusis,C1384666
+Tonsillenkarzinom,C0558355,schluckbeschwerden,C0011168
+Tonsillenkarzinom,C0558355,heiserkeit,C0019825
+Tonsillenkarzinom,C0558355,foetor ex ore,C0018520
+klatskintumor,C0206702,ikterus,C0022346
+klatskintumor,C0206702,pruritus,C0033774
+klatskintumor,C0206702,steatorrhoe,C0038238
+lymphangitis,C0024225,krankheitsgefuehl,C0231218
+lymphangitis,C0024225,fieber,C0015967
+lymphangitis,C0024225,schuettelfrost,C0085593
+lymphangitis,C0024225,sinustachykardie,C0039239
+"ulkus , gastroduodenal",C0030920,voellegefuehl,C3714614
+"ulkus , gastroduodenal",C0030920,uebelkeit,C0027497
+"ulkus , gastroduodenal",C0030920,erbrechen,C0042963
+"ulkus , gastroduodenal",C0030920,unbeabsichtigter gewichtsverlust,C2363736
+"ulkus , gastroduodenal",C0030920,appetitlosigkeit,C0003123
+"ulkus , gastroduodenal",C0030920,aufstossen,C0014724
+"ulkus , gastroduodenal",C0030920,unbeabsichtigter gewichtsverlust,C2363736
+"ulkus , gastroduodenal",C0030920,appetitlosigkeit,C0003123
+"ulkus , gastroduodenal",C0030920,uebelkeit,C0027497
+"ulkus , gastroduodenal",C0030920,voellegefuehl,C3714614
+"ulkus , gastroduodenal",C0030920,erbrechen,C0042963
+glaukom,C0017601,augenschmerzen,C0151827
+glaukom,C0017601,erbrechen,C0042963
+glaukom,C0017601,sehverlust,C0456909
+glaukom,C0017601,pupillenreflex,C0034941
+glaukom,C0017601,kopfschmerzen,C0018681
+glaukom,C0017601,rotes auge,C0235267
+glaukom,C0017601,erbrechen,C0042963
+glaukom,C0017601,uebelkeit,C0027497
+schilddruesenbedingte orbitopathie,C3495928,lichtscheu,C0085636
+schilddruesenbedingte orbitopathie,C3495928,fremdkoerpergefuehl,C0423602
+spondylarthritis,C0949690,sakroiliitis,C0574960
+spondylarthritis,C0949690,enthesopathie,C0242490
+spondylarthritis,C0949690,iritis,C0022081
+spondylarthritis,C0949690,rueckenschmerzen,C0004604
+spondylarthritis,C0949690,iritis,C0022081
+spondylarthritis,C0949690,iridozyklitis,C0022073
+aortenisthmusstenose,C0003492,kopfschmerzen,C0018681
+aortenisthmusstenose,C0003492,epistaxis,C0014591
+aortenisthmusstenose,C0003492,schwindel,C0012833
+aortenisthmusstenose,C0003492,tinnitus,C0040264
+aortenisthmusstenose,C0003492,zyanose,C0010520
+aortenisthmusstenose,C0003492,hepatosplenomegalie,C0019214
+harnverhaltung,C0152032,anurie,C0003460
+harnverhaltung,C0152032,ueberlaufinkontinenz,C0375553
+malignes neuroleptisches syndrom,C0027849,hyperthermie,C0015967
+malignes neuroleptisches syndrom,C0027849,ck,C0201973
+stauungspapille,C0030353,kopfschmerzen,C0018681
+stauungspapille,C0030353,sehstoerungen,C0547030
+stauungspapille,C0030353,optikusatrophie,C0029124
+infantile zerebralparese,C0392549,dyskinetisches syndrom,C0013384
+netzhautabloesung,C0035305,mouches volantes,C0016242
+netzhautabloesung,C0035305,skotom,C0036454
+urethritis,C0041976,pruritus,C0033774
+haemophilie a,C0019069,haematom,C0018944
+haemophilie a,C0019069,epistaxis,C0014591
+haemophilie a,C0019069,hypermenorrhoe,C0025323
+gaucher - krankheit,C0017205,knochenschmerzen,C0151825
+gaucher - krankheit,C0017205,blutungsneigung,C0019087
+gaucher - krankheit,C0017205,hypermenorrhoe,C0025323
+gaucher - krankheit,C0017205,epistaxis,C0014591
+gaucher - krankheit,C0017205,hautblutungen,C0852361
+gaucher - krankheit,C0017205,metrorrhagie,C0025874
+gaucher - krankheit,C0017205,zahnfleischbluten,C0017565
+gaucher - krankheit,C0017205,infektanfaelligkeit erhoeht,C0236171
+gaucher - krankheit,C0017205,dyspnoe,C0013404
+gaucher - krankheit,C0017205,fetale wachstumsretardierung,C0015934
+periphere arterielle verschlusskrankheit,C1704436,schmerzen nnb,C0030193
+periphere arterielle verschlusskrankheit,C1704436,schock,C0036974
+periphere arterielle verschlusskrankheit,C1704436,paraesthesien und dysaesthesien,C0852415
+rhabdomyolyse,C0035410,myalgie,C0231528
+rhabdomyolyse,C0035410,myasthenie,C0947912
+rhabdomyolyse,C0035410,fieber,C0015967
+rhabdomyolyse,C0035410,uebelkeit,C0027497
+rhabdomyolyse,C0035410,myoglobinurie,C0027080
+rhabdomyolyse,C0035410,hyperkaliaemie,C0020461
+rhabdomyolyse,C0035410,hyperurikaemie,C0740394
+roeteln,C0035920,masern,C0025007
+roeteln,C0035920,exanthema subitum,C0015231
+roeteln,C0035920,exanthem,C0015230
+akute lymphatische leukaemie,C0023449,fieber,C0015967
+akute lymphatische leukaemie,C0023449,nachtschweiss,C0028081
+akute lymphatische leukaemie,C0023449,mykosen,C0026946
+akute lymphatische leukaemie,C0023449,thrombozytopenie,C0040034
+akute lymphatische leukaemie,C0023449,lymphadenopathie,C0497156
+akute lymphatische leukaemie,C0023449,splenomegalie,C0038002
+akute lymphatische leukaemie,C0023449,anaemie,C0002871
+akute lymphatische leukaemie,C0023449,infektanfaelligkeit erhoeht,C0236171
+akute lymphatische leukaemie,C0023449,abgeschlagenheit,C0015672
+akute lymphatische leukaemie,C0023449,hepatosplenomegalie,C0019214
+erythrasma,C0014752,candidose,C0006840
+erythrasma,C0014752,kontaktdermatitis,C0011616
+erythrasma,C0014752,psoriasis,C0033860
+erythrasma,C0014752,"dermatitis , seborrhoische",C0036508
+erythrasma,C0014752,tinea corporis,C0040252
+nykturie,C0028734,zystitis,C0010692
+nykturie,C0028734,blaseninkontinenz,C0042024
+nykturie,C0028734,herzinsuffizienz,C0018801
+nykturie,C0028734,benigne prostatahyperplasie,C1704272
+nykturie,C0028734,niereninsuffizienz,C1565489
+nykturie,C0028734,schwangerschaft,C0032961
+nykturie,C0028734,diuretika,C0012798
+Osteomyelofibrose,C0948968,splenomegalie,C0038002
+"allergische alveolitis , exogene",C0002390,kopfschmerzen,C0018681
+"allergische alveolitis , exogene",C0002390,schuettelfrost,C0085593
+"allergische alveolitis , exogene",C0002390,muedigkeit,C0015672
+"allergische alveolitis , exogene",C0002390,unbeabsichtigter gewichtsverlust,C2363736
+"allergische alveolitis , exogene",C0002390,fieber,C0015967
+"allergische alveolitis , exogene",C0002390,husten,C0010200
+"allergische alveolitis , exogene",C0002390,dyspnoe,C0013404
+"allergische alveolitis , exogene",C0002390,tachypnoe,C0231835
+broca - aphasie,C0003550,paraphasie,C0234488
+mastoiditis,C0024904,ohrenschmerz,C0013456
+mastoiditis,C0024904,schallleitungsschwerhoerigkeit,C0018777
+mastoiditis,C0024904,fieber,C0015967
+mastoiditis,C0024904,otorrhoe,C0155540
+tetanie,C0039621,paraesthesien und dysaesthesien,C0852415
+herxheimer - reaktion,C0259756,fieber,C0015967
+herxheimer - reaktion,C0259756,kopfschmerzen,C0018681
+herxheimer - reaktion,C0259756,arthralgie,C0003862
+herxheimer - reaktion,C0259756,exanthem,C0015230
+"sklerose , progressive systemische",C1258104,oedem,C0013604
+"sklerose , progressive systemische",C1258104,"atrophie , muskel",C0026846
+"sklerose , progressive systemische",C1258104,vasospasmus,C0085616
+"sklerose , progressive systemische",C1258104,blaesse,C0030232
+"sklerose , progressive systemische",C1258104,sklerodaktylie,C0150988
+"sklerose , progressive systemische",C1258104,mikrostomie,C0026034
+"sklerose , progressive systemische",C1258104,multiple teleangiektasien,C0235499
+"sklerose , progressive systemische",C1258104,myalgie,C0231528
+"sklerose , progressive systemische",C1258104,myositis,C0027121
+"sklerose , progressive systemische",C1258104,intestinale pseudoobstruktion,C0021847
+"sklerose , progressive systemische",C1258104,alveolitis,C0549493
+"sklerose , progressive systemische",C1258104,lungenfibrose,C0034069
+"sklerose , progressive systemische",C1258104,myokarditis,C0027059
+"sklerose , progressive systemische",C1258104,myokardfibrose,C0151654
+"sklerose , progressive systemische",C1258104,perikarditis,C0031046
+"sklerose , progressive systemische",C1258104,hypertonie,C0020538
+"sklerose , progressive systemische",C1258104,niereninfarkt,C0035085
+"sklerose , progressive systemische",C1258104,mikroangiopathie,C0155765
+"sklerose , progressive systemische",C1258104,sonstige hautveraenderungen,C0478124
+"sklerose , progressive systemische",C1258104,arthritis,C0003864
+parakeratose,C0030436,psoriasis,C0033860
+parakeratose,C0030436,ekzem,C0013595
+"morbus still , juvenile form",C0087031,myalgie,C0231528
+"morbus still , juvenile form",C0087031,arthralgie,C0003862
+"morbus still , juvenile form",C0087031,dysphagie,C0011168
+"morbus still , juvenile form",C0087031,splenomegalie,C0038002
+"morbus still , juvenile form",C0087031,polyserositis,C0151859
+"morbus still , juvenile form",C0087031,lymphadenopathie,C0497156
+"morbus still , juvenile form",C0087031,exanthem,C0015230
+"morbus still , juvenile form",C0087031,fieber,C0015967
+"morbus still , juvenile form",C0087031,lymphadenopathie,C0497156
+"morbus still , juvenile form",C0087031,exanthem,C0015230
+"morbus still , juvenile form",C0087031,intermittierendes fieber,C0277799
+"morbus still , juvenile form",C0087031,serositis,C0036749
+"morbus still , juvenile form",C0087031,perikarditis,C0031046
+"morbus still , juvenile form",C0087031,"hepatomegalie , anderenorts nicht klassifiziert",C0495672
+"morbus still , juvenile form",C0087031,"splenomegalie , anderenorts nicht klassifiziert",C0495673
+"morbus still , juvenile form",C0087031,schmerzen hals / schulter,C0235999
+"morbus still , juvenile form",C0087031,ferritin hoch,C0743912
+williams - beuren - syndrom,C0175702,ergotherapie,C1141969
+pneumonie durch legionella,C0023241,schuettelfrost,C0085593
+pneumonie durch legionella,C0023241,myalgie,C0231528
+pneumonie durch legionella,C0023241,husten,C0010200
+pneumonie durch legionella,C0023241,thoraxschmerz,C0008031
+pneumonie durch legionella,C0023241,pneumonie,C0032285
+pneumonie durch legionella,C0023241,pleuritis,C0032231
+pneumonie durch legionella,C0023241,fieber,C0015967
+pneumonie durch legionella,C0023241,rhinitis,C0035455
+pneumonie durch legionella,C0023241,laryngitis,C0023067
+pneumonie durch legionella,C0023241,kopfschmerzen,C0018681
+pneumonie durch legionella,C0023241,verwirrtheit,C0009676
+pneumonie durch legionella,C0023241,diarrhoe,C0011991
+loefgren – syndrom,C0340164,erythema nodosum,C0014743
+loefgren – syndrom,C0340164,arthritis,C0003864
+hydrops fetalis,C0020305,aszites,C0003962
+hydrops fetalis,C0020305,pleuraerguss,C0032227
+hydrops fetalis,C0020305,polyhydramnion,C0020224
+obstruktive kardiomyopathie,C0007194,ventrikulaere arrhythmie,C0085612
+obstruktive kardiomyopathie,C0007194,tachykardie ventrikulaer,C0042514
+obstruktive kardiomyopathie,C0007194,schwindel,C0012833
+obstruktive kardiomyopathie,C0007194,synkope,C0039070
+obstruktive kardiomyopathie,C0007194,dyspnoe,C0013404
+obstruktive kardiomyopathie,C0007194,angina pectoris,C0002962
+sphaerozytose,C0553720,anaemie,C0002871
+sphaerozytose,C0553720,splenomegalie,C0038002
+sphaerozytose,C0553720,normochrome anaemie,C0235983
+sphaerozytose,C0553720,retikulozytose,C0206160
+sphaerozytose,C0553720,bilirubin insgesamt hoch,C0741494
+glukose phosphatasemangel 06,C0017920,infektanfaelligkeit erhoeht,C0236171
+sichelzellkrankheit,C0002895,haemolytische anaemie,C0002878
+sichelzellkrankheit,C0002895,niereninfarkt,C0035085
+sichelzellkrankheit,C0002895,apoplektischer insult,C0038454
+sichelzellkrankheit,C0002895,handschwellung,C0575805
+sichelzellkrankheit,C0002895,hepatosplenomegalie,C0019214
+sichelzellkrankheit,C0002895,infektanfaelligkeit erhoeht,C0236171
+sichelzellkrankheit,C0002895,osteomyelitis,C0029443
+sichelzellkrankheit,C0002895,sepsis,C0243026
+sichelzellkrankheit,C0002895,osteoporose,C0029456
+sichelzellkrankheit,C0002895,haematurie,C0018965
+sichelzellkrankheit,C0002895,niereninsuffizienz,C1565489
+anaemie aplastisch,C0002874,anaemie,C0002871
+anaemie aplastisch,C0002874,granulozytopenie,C0001824
+anaemie aplastisch,C0002874,thrombozytopenie,C0040034
+anaemie aplastisch,C0002874,blaesse,C0030232
+anaemie aplastisch,C0002874,dyspnoe,C0013404
+anaemie aplastisch,C0002874,muedigkeit,C0015672
+anaemie aplastisch,C0002874,infektanfaelligkeit erhoeht,C0236171
+anaemie aplastisch,C0002874,fieber,C0015967
+anaemie aplastisch,C0002874,mykosen,C0026946
+anaemie aplastisch,C0002874,petechien,C0031256
+anaemie aplastisch,C0002874,zahnfleischbluten,C0017565
+anaemie aplastisch,C0002874,epistaxis,C0014591
+haarzellleukaemie,C0023443,panzytopenie,C0030312
+haarzellleukaemie,C0023443,splenomegalie,C0038002
+haarzellleukaemie,C0023443,infektanfaelligkeit erhoeht,C0236171
+sezary - syndrom,C0036920,lymphadenopathie,C0497156
+sezary - syndrom,C0036920,pruritus,C0033774
+sezary - syndrom,C0036920,erythrodermie,C0011606
+sezary - syndrom,C0036920,hyperkeratose,C0870082
+sezary - syndrom,C0036920,alopezie,C0002170
+sezary - syndrom,C0036920,onychodystrophie,C0221260
+akute leukaemie,C0085669,abgeschlagenheit,C0015672
+akute leukaemie,C0085669,fieber,C0015967
+akute leukaemie,C0085669,nachtschweiss,C0028081
+akute leukaemie,C0085669,granulozytopenie,C0001824
+akute leukaemie,C0085669,mykosen,C0026946
+akute leukaemie,C0085669,anaemie,C0002871
+akute leukaemie,C0085669,blaesse,C0030232
+akute leukaemie,C0085669,dyspnoe,C0013404
+akute leukaemie,C0085669,muedigkeit,C0015672
+akute leukaemie,C0085669,thrombozytopenie,C0040034
+akute leukaemie,C0085669,verbrauchskoagulopathie,C0012739
+akute leukaemie,C0085669,lymphadenopathie,C0497156
+akute leukaemie,C0085669,splenomegalie,C0038002
+akute leukaemie,C0085669,gingivitis,C0017574
+akute leukaemie,C0085669,meningeosis leucaemica,C0948840
+akute leukaemie,C0085669,harnsaeure hoch,C0920063
+fabry - syndrom,C0002986,cornea verticillata,C1706559
+fabry - syndrom,C0002986,diarrhoe,C0011991
+fabry - syndrom,C0002986,obstipation,C0009806
+fabry - syndrom,C0002986,tinnitus,C0040264
+fabry - syndrom,C0002986,sonstiger hoerverlust,C0494562
+fabry - syndrom,C0002986,tia,C0007787
+fabry - syndrom,C0002986,schlaganfall,C0038454
+hypersplenismus,C0020532,splenomegalie,C0038002
+hypersplenismus,C0020532,zytopenie,C0010828
+hypersplenismus,C0020532,knochenmarkhyperplasie,C0005959
+immunthrombozytopenische purpura,C0398650,petechien,C0031256
+immunthrombozytopenische purpura,C0398650,epistaxis,C0014591
+immunthrombozytopenische purpura,C0398650,menorrhagie,C0025323
+infektioese endokarditis,C0014121,fieber,C0015967
+infektioese endokarditis,C0014121,sinustachykardie,C0039239
+infektioese endokarditis,C0014121,schuettelfrost,C0085593
+infektioese endokarditis,C0014121,schwaeche,C3714552
+infektioese endokarditis,C0014121,appetitlosigkeit,C0003123
+infektioese endokarditis,C0014121,unbeabsichtigter gewichtsverlust,C2363736
+infektioese endokarditis,C0014121,schwitzen,C0038990
+infektioese endokarditis,C0014121,arthralgie,C0003862
+infektioese endokarditis,C0014121,herzgeraeusche,C0018808
+infektioese endokarditis,C0014121,herzinsuffizienz,C0018801
+infektioese endokarditis,C0014121,lungenoedem,C0034063
+infektioese endokarditis,C0014121,myokardabszess,C1142004
+infektioese endokarditis,C0014121,linksschenkelblock,C0023211
+infektioese endokarditis,C0014121,koronarembolie,C0264686
+infektioese endokarditis,C0014121,perikarderguss,C0031039
+infektioese endokarditis,C0014121,petechien,C0031256
+infektioese endokarditis,C0014121,vaskulitis,C0042384
+infektioese endokarditis,C0014121,trommelschlegelfinger,C0009080
+infektioese endokarditis,C0014121,uhrglasnaegel,C0149651
+infektioese endokarditis,C0014121,hemiparese,C0018989
+infektioese endokarditis,C0014121,haematurie,C0018965
+infektioese endokarditis,C0014121,nephritis,C0027697
+infektioese endokarditis,C0014121,niereninfarkt,C0035085
+infektioese endokarditis,C0014121,splenomegalie,C0038002
+infektioese endokarditis,C0014121,anaemie,C0002871
+infektioese endokarditis,C0014121,leukozytose,C0023518
+infektioese endokarditis,C0014121,thrombozytopenie,C0040034
+rheumatisches fieber,C0035436,fieber,C0015967
+rheumatisches fieber,C0035436,kopfschmerzen,C0018681
+rheumatisches fieber,C0035436,schwitzen,C0038990
+rheumatisches fieber,C0035436,polyarthritis,C0162323
+rheumatisches fieber,C0035436,erythema anulare,C0234906
+rheumatisches fieber,C0035436,erythem,C0041834
+rheumatisches fieber,C0035436,erythema nodosum,C0014743
+rheumatisches fieber,C0035436,myokarditis,C0027059
+rheumatisches fieber,C0035436,perikarditis,C0031046
+rheumatisches fieber,C0035436,pankarditis,C0030270
+mitralklappenstenose,C0026269,vorhofflimmern,C0004238
+mitralklappenstenose,C0026269,embolie,C0013922
+mitralklappenstenose,C0026269,lungenstauung,C0242073
+mitralklappenstenose,C0026269,pulmonale hypertonie,C0020542
+mitralklappenstenose,C0026269,belastungsdyspnoe,C0231807
+mitralklappenstenose,C0026269,husten,C0010200
+mitralklappenstenose,C0026269,asthma cardiale,C1956414
+mitralklappenstenose,C0026269,chronische stauungsleber,C0156195
+mitralklappenstenose,C0026269,proteinurie,C0033687
+mitralklappenstenose,C0026269,oedem,C0013604
+mitralklappenstenose,C0026269,abgeschlagenheit,C0015672
+mitralklappenstenose,C0026269,zyanose,C0010520
+mitralklappenstenose,C0026269,facies mitralis,C0332610
+mitralklappenstenose,C0026269,dyspnoe,C0013404
+mitralklappenstenose,C0026269,husten,C0010200
+mitralklappenstenose,C0026269,vorhofflimmern,C0004238
+mitralklappenstenose,C0026269,arrhythmie,C0003811
+mitralklappeninsuffizienz,C0026266,dyspnoe,C0013404
+mitralklappeninsuffizienz,C0026266,palpitationen,C0030252
+mitralklappeninsuffizienz,C0026266,naechtlicher husten,C0231912
+mitralklappeninsuffizienz,C0026266,lungenoedem,C0034063
+mitralklappeninsuffizienz,C0026266,kardiogener schock,C0036980
+mitralklappenprolaps,C0026267,ventrikulaere extrasystolen,C0151636
+mitralklappenprolaps,C0026267,sinustachykardie,C0039239
+mitralklappenprolaps,C0026267,synkope,C0039070
+mitralklappenprolaps,C0026267,abgeschlagenheit,C0015672
+mitralklappenprolaps,C0026267,muedigkeit,C0015672
+mitralklappenprolaps,C0026267,angst,C0003467
+aortenstenose,C0003507,atemnot,C0013404
+aortenstenose,C0003507,angina pectoris,C0002962
+aortenstenose,C0003507,schwindel,C0012833
+aortenstenose,C0003507,synkope,C0039070
+aortenstenose,C0003507,muedigkeit,C0015672
+aortenstenose,C0003507,schwindelanfaelle,C0857087
+aortenstenose,C0003507,angina pectoris,C0002962
+aortenklappeninsuffizienz,C0003504,abgeschlagenheit,C0015672
+aortenklappeninsuffizienz,C0003504,synkope,C0039070
+pulmonalstenose,C1956257,abgeschlagenheit,C0015672
+pulmonalstenose,C1956257,dyspnoe,C0013404
+pulmonalstenose,C1956257,herzinsuffizienz,C0018801
+pulmonalstenose,C1956257,stenokardie,C0002962
+pulmonalstenose,C1956257,schwindel,C0012833
+pulmonalstenose,C1956257,synkope,C0039070
+vorhofseptumdefekt,C0018817,abgeschlagenheit,C0015672
+vorhofseptumdefekt,C0018817,muedigkeit,C0015672
+vorhofseptumdefekt,C0018817,belastungsdyspnoe,C0231807
+vorhofseptumdefekt,C0018817,palpitationen,C0030252
+vorhofseptumdefekt,C0018817,angina pectoris,C0002962
+vorhofseptumdefekt,C0018817,apoplektischer insult,C0038454
+vorhofseptumdefekt,C0018817,rechtsherzinsuffizienz,C0235527
+ventrikelseptumdefekt,C0018818,entwicklungsverzoegerung,C0424605
+ventrikelseptumdefekt,C0018818,belastungsdyspnoe,C0231807
+ventrikelseptumdefekt,C0018818,bronchopulmonale infektion,C0948783
+ventrikelseptumdefekt,C0018818,palpitationen,C0030252
+ventrikelseptumdefekt,C0018818,herzinsuffizienz,C0018801
+ventrikelseptumdefekt,C0018818,zyanose,C0010520
+ventrikelseptumdefekt,C0018818,dyspnoe,C0013404
+ventrikelseptumdefekt,C0018818,abgeschlagenheit,C0015672
+ventrikelseptumdefekt,C0018818,rechtsherzinsuffizienz,C0235527
+ventrikelseptumdefekt,C0018818,synkope,C0039070
+ventrikelseptumdefekt,C0018818,uhrglasnaegel,C0149651
+ventrikelseptumdefekt,C0018818,trommelschlegelfinger,C0009080
+ventrikelseptumdefekt,C0018818,hypotonie,C0020649
+ebstein - anomalie,C0013481,dyspnoe,C0013404
+ebstein - anomalie,C0013481,muedigkeit,C0015672
+ebstein - anomalie,C0013481,herzschmerzen,C0002962
+ebstein - anomalie,C0013481,palpitationen,C0030252
+ebstein - anomalie,C0013481,zyanose,C0010520
+ebstein - anomalie,C0013481,hepatomegalie,C0019209
+fallot tetralogie,C0039685,atemnot,C0013404
+fallot tetralogie,C0039685,hypoxischer stillstand,C0857375
+fallot tetralogie,C0039685,abgeschlagenheit,C0015672
+fallot tetralogie,C0039685,entwicklungsverzoegerung,C0424605
+fallot tetralogie,C0039685,rechtsherzinsuffizienz,C0235527
+marfan - syndrom,C0024796,kielbrust,C0158731
+marfan - syndrom,C0024796,trichterbrust,C0016842
+marfan - syndrom,C0024796,knickfuss,C0016202
+marfan - syndrom,C0024796,pneumothorax,C0032326
+marfan - syndrom,C0024796,protrusio acetabuli,C0409495
+marfan - syndrom,C0024796,skoliose,C0036439
+marfan - syndrom,C0024796,kyphose,C0022821
+marfan - syndrom,C0024796,dolichozephalie,C0221358
+marfan - syndrom,C0024796,enophthalmus,C0014306
+marfan - syndrom,C0024796,retrognathie,C3494422
+marfan - syndrom,C0024796,striae,C0152459
+marfan - syndrom,C0024796,myopie,C0027092
+marfan - syndrom,C0024796,mitralklappenprolaps,C0026267
+marfan - syndrom,C0024796,kielbrust,C0158731
+marfan - syndrom,C0024796,trichterbrust,C0016842
+marfan - syndrom,C0024796,skoliose,C0036439
+marfan - syndrom,C0024796,aortenaneurysma,C0003486
+marfan - syndrom,C0024796,aortenektasie,C0265004
+marfan - syndrom,C0024796,arachnodaktylie,C0003706
+marfan - syndrom,C0024796,"plattfuss , kongenital",C0392477
+marfan - syndrom,C0024796,mitralinsuffizienz,C0026266
+digitalisintoxikation,C0151595,brechreiz,C0027497
+digitalisintoxikation,C0151595,diarrhoe,C0011991
+digitalisintoxikation,C0151595,sehstoerungen,C0547030
+digitalisintoxikation,C0151595,sinusbradykardie,C0085610
+digitalisintoxikation,C0151595,paroxysmale vorhoftachykardie,C0030587
+digitalisintoxikation,C0151595,extrasystolie,C0340464
+digitalisintoxikation,C0151595,bigeminus,C0235477
+digitalisintoxikation,C0151595,reizleitungsstoerungen,C0264886
+dilatative kardiomyopathie,C0007193,linksherzinsuffizienz,C0023212
+dilatative kardiomyopathie,C0007193,belastungsdyspnoe,C0231807
+chagas - krankheit,C0041234,fieber,C0015967
+chagas - krankheit,C0041234,abgeschlagenheit,C0015672
+chagas - krankheit,C0041234,splenomegalie,C0038002
+chagas - krankheit,C0041234,hepatomegalie,C0019209
+chagas - krankheit,C0041234,hepatosplenomegalie,C0019214
+chagas - krankheit,C0041234,lymphadenopathie,C0497156
+chagas - krankheit,C0041234,myokarditis,C0027059
+chagas - krankheit,C0041234,ploetzlicher herztod,C0085298
+chagas - krankheit,C0041234,oesophagusdilatation,C0192389
+chagas - krankheit,C0041234,kardiomegalie,C0018800
+chagas - krankheit,C0041234,megaoesophagus,C0025164
+chagas - krankheit,C0041234,megakolon,C0025160
+herzbeuteltamponade,C0007177,mittlerer venendruck erhoeht,C1168392
+herzbeuteltamponade,C0007177,kussmaulzeichen positiv,C0232118
+herzbeuteltamponade,C0007177,belastungsdyspnoe,C0231807
+herzbeuteltamponade,C0007177,hypotonie,C0020649
+herzbeuteltamponade,C0007177,pulsus paradoxus,C0232118
+herzbeuteltamponade,C0007177,sinustachykardie,C0039239
+chronische konstriktive perikarditis,C0265144,mittlerer venendruck erhoeht,C1168392
+chronische konstriktive perikarditis,C0265144,kussmaulzeichen positiv,C0232118
+chronische konstriktive perikarditis,C0265144,hepatomegalie,C0019209
+chronische konstriktive perikarditis,C0265144,oedem,C0013604
+chronische konstriktive perikarditis,C0265144,hypersplenismus,C0020532
+chronische konstriktive perikarditis,C0265144,low - cardiac - output - syndrom,C0600177
+chronische konstriktive perikarditis,C0265144,belastungsdyspnoe,C0231807
+chronische konstriktive perikarditis,C0265144,pulsus paradoxus,C0232118
+herzinfarkt,C0027051,angina pectoris,C0002962
+herzinfarkt,C0027051,schwaechegefuehl,C3714552
+herzinfarkt,C0027051,angst,C0003467
+herzinfarkt,C0027051,schwitzen,C0038990
+herzinfarkt,C0027051,uebelkeit,C0027497
+herzinfarkt,C0027051,erbrechen,C0042963
+herzinfarkt,C0027051,tachykardie ventrikulaer,C0042514
+herzinfarkt,C0027051,kammerflimmern,C0042510
+herzinfarkt,C0027051,hypotonie,C0020649
+herzinfarkt,C0027051,angina pectoris,C0002962
+chronisch obstruktive lungenkrankheit,C0024117,husten,C0010200
+chronisch obstruktive lungenkrankheit,C0024117,belastungsdyspnoe,C0231807
+pneumokokkeninfektionen,C0032269,pneumonie,C0032285
+pneumokokkeninfektionen,C0032269,meningitis,C0025289
+pneumokokkeninfektionen,C0032269,otitis media,C0029882
+pneumokokkeninfektionen,C0032269,sinusitis,C0037199
+pneumokokkeninfektionen,C0032269,konjunktivitis,C0009763
+pneumokokkeninfektionen,C0032269,ulcus corneae,C0010043
+"mykoplasmeninfektion , nicht naeher bezeichnet",C0026936,tracheobronchitis,C0040586
+"mykoplasmeninfektion , nicht naeher bezeichnet",C0026936,interstitielle pneumonie,C0206061
+"mykoplasmeninfektion , nicht naeher bezeichnet",C0026936,pneumonie,C0032285
+chlamydia pneumoniae - infektion,C1096584,pharyngitis,C0031350
+chlamydia pneumoniae - infektion,C1096584,sinusitis,C0037199
+chlamydia pneumoniae - infektion,C1096584,bronchitis,C0006277
+ornithose,C0029291,pneumonie,C0032285
+ornithose,C0029291,schuettelfrost,C0085593
+ornithose,C0029291,fieber,C0015967
+ornithose,C0029291,myalgie,C0231528
+ornithose,C0029291,kopfschmerzen,C0018681
+ornithose,C0029291,epistaxis,C0014591
+ornithose,C0029291,husten,C0010200
+ornithose,C0029291,exanthem,C0015230
+ornithose,C0029291,splenomegalie,C0038002
+q - fieber,C0034362,fieber,C0015967
+q - fieber,C0034362,kopfschmerzen,C0018681
+q - fieber,C0034362,pneumonie,C0032285
+q - fieber,C0034362,schuettelfrost,C0085593
+q - fieber,C0034362,myalgie,C0231528
+q - fieber,C0034362,arthralgie,C0003862
+q - fieber,C0034362,trockener husten,C0850149
+q - fieber,C0034362,exanthem,C0015230
+q - fieber,C0034362,angina pectoris,C0002962
+infektion mit bacillus anthracis,C0003175,bronchopneumonie,C0006285
+infektion mit bacillus anthracis,C0003175,fieber,C0015967
+infektion mit bacillus anthracis,C0003175,schuettelfrost,C0085593
+infektion mit bacillus anthracis,C0003175,husten,C0010200
+infektion mit bacillus anthracis,C0003175,hypoxie,C0242184
+respiratorische synzytialvirusinfektionen,C0035235,schnupfen,C0009443
+respiratorische synzytialvirusinfektionen,C0035235,pharyngitis,C0031350
+respiratorische synzytialvirusinfektionen,C0035235,tracheobronchitis,C0040586
+respiratorische synzytialvirusinfektionen,C0035235,keuchhusten,C0043167
+respiratorische synzytialvirusinfektionen,C0035235,pneumonie,C0032285
+pneumocystis jirovecii - pneumonie,C1535939,dyspnoe,C0013404
+pneumocystis jirovecii - pneumonie,C1535939,tachypnoe,C0231835
+pneumocystis jirovecii - pneumonie,C1535939,husten,C0010200
+pneumocystis jirovecii - pneumonie,C1535939,fieber,C0015967
+mendelson - syndrom,C0085740,bronchospasmus,C0006266
+mendelson - syndrom,C0085740,glottiskrampf,C0392315
+mendelson - syndrom,C0085740,zyanose,C0010520
+mendelson - syndrom,C0085740,dyspnoe,C0013404
+mendelson - syndrom,C0085740,sinustachykardie,C0039239
+mendelson - syndrom,C0085740,hypotonie,C0020649
+silikose,C0037116,belastungsdyspnoe,C0231807
+silikose,C0037116,sputum anomal,C0159054
+bronchialkarzinom,C0007121,husten,C0010200
+bronchialkarzinom,C0007121,dyspnoe,C0013404
+bronchialkarzinom,C0007121,thoraxschmerz,C0008031
+bronchialkarzinom,C0007121,rekurrensparese,C0542142
+bronchialkarzinom,C0007121,pleuraexsudat,C0427855
+bronchialkarzinom,C0007121,interkostalneuralgie,C0344306
+bronchialkarzinom,C0007121,enophthalmus,C0014306
+bronchialkarzinom,C0007121,polymyositis,C0085655
+bronchialkarzinom,C0007121,dermatomyositis,C0011633
+bronchialkarzinom,C0007121,thrombozytose,C0836924
+bronchialkarzinom,C0007121,osteoarthropathie,C0263661
+bronchialkarzinom,C0007121,trommelschlegelfinger,C0009080
+bronchialkarzinom,C0007121,uhrglasnaegel,C0149651
+bronchialkarzinom,C0007121,arthralgie,C0003862
+bronchialkarzinom,C0007121,dyspnoe,C0013404
+bronchialkarzinom,C0007121,husten,C0010200
+bronchialkarzinom,C0007121,stridor,C0038450
+bronchialkarzinom,C0007121,haemoptoe,C0019079
+bronchialkarzinom,C0007121,dysphagie,C0011168
+bronchialkarzinom,C0007121,unbeabsichtigter gewichtsverlust,C2363736
+bronchialkarzinom,C0007121,husten,C0010200
+bronchialkarzinom,C0007121,thoraxschmerz,C0008031
+bronchialkarzinom,C0007121,unbeabsichtigter gewichtsverlust,C2363736
+bronchialkarzinom,C0007121,chronischer husten,C0010201
+bronchialkarzinom,C0007121,dyspnoe,C0013404
+bronchialkarzinom,C0007121,kachexie,C0006625
+bronchialkarzinom,C0007121,uhrglasnaegel,C0149651
+bronchialkarzinom,C0007121,trommelschlegelfinger,C0009080
+bronchialkarzinom,C0007121,dysphagie,C0011168
+bronchialkarzinom,C0007121,heiserkeit,C0019825
+bronchialkarzinom,C0007121,thoraxschmerz,C0008031
+bronchialkarzinom,C0007121,unbeabsichtigter gewichtsverlust,C2363736
+bronchialkarzinom,C0007121,husten,C0010200
+bronchialkarzinom,C0007121,husten mit auswurf,C0239134
+bronchialkarzinom,C0007121,dyspnoe,C0013404
+bronchialkarzinom,C0007121,unbeabsichtigter gewichtsverlust,C2363736
+bronchialkarzinom,C0007121,thoraxschmerz,C0008031
+sarkoidose,C0036202,arthritis,C0003864
+sarkoidose,C0036202,erythema nodosum,C0014743
+sarkoidose,C0036202,fieber,C0015967
+sarkoidose,C0036202,husten,C0010200
+achalasie,C1321756,dysphagie,C0011168
+achalasie,C1321756,regurgitation,C2004489
+achalasie,C1321756,mundgeruch,C0018520
+achalasie,C1321756,voellegefuehl,C3714614
+oesophagusdivertikel,C0014854,druckschmerz,C0234233
+oesophagusdivertikel,C0014854,dysphagie,C0011168
+oesophagusdivertikel,C0014854,regurgitation,C2004489
+oesophagusdivertikel,C0014854,mundgeruch,C0018520
+oesophagusdivertikel,C0014854,oesophageale dysphagie,C0267072
+oesophagusdivertikel,C0014854,regurgitation,C2004489
+oesophagusdivertikel,C0014854,aspiration,C0700198
+oesophagusdivertikel,C0014854,foetor ex ore,C0018520
+magenkarzinom,C0024623,uebelkeit,C0027497
+magenkarzinom,C0024623,anorexie,C0003123
+magenkarzinom,C0024623,dyspepsie,C0013395
+magenkarzinom,C0024623,hepatomegalie,C0019209
+magenkarzinom,C0024623,ikterus,C0022346
+magenkarzinom,C0024623,gastrointestinale blutungen,C0017181
+magenkarzinom,C0024623,aszites,C0003962
+magenkarzinom,C0024623,unbeabsichtigter gewichtsverlust,C2363736
+magenkarzinom,C0024623,brechreiz,C0027497
+magenkarzinom,C0024623,druckgefuehl,C0234222
+magenkarzinom,C0024623,abgeschlagenheit,C0015672
+magenkarzinom,C0024623,tumorkachexie,C1391732
+magenkarzinom,C0024623,dysphagie,C0011168
+magenkarzinom,C0024623,dyspepsie,C0013395
+magenkarzinom,C0024623,erbrechen,C0042963
+magenkarzinom,C0024623,inappetenz,C0232462
+magenkarzinom,C0024623,unbeabsichtigter gewichtsverlust,C2363736
+nahrungsmittelallergie,C0016470,urtikaria,C0042109
+nahrungsmittelallergie,C0016470,pruritus,C0033774
+nahrungsmittelallergie,C0016470,exanthem,C0015230
+nahrungsmittelallergie,C0016470,larynxoedem,C0023052
+nahrungsmittelallergie,C0016470,asthmaanfall,C0038218
+nahrungsmittelallergie,C0016470,rhinitis,C0035455
+nahrungsmittelallergie,C0016470,schnupfen,C0009443
+nahrungsmittelallergie,C0016470,nasale obstruktion,C0027429
+nahrungsmittelallergie,C0016470,sinustachykardie,C0039239
+nahrungsmittelallergie,C0016470,hypotonie,C0020649
+eiweissverlustsyndrom,C0302858,diarrhoe,C0011991
+eiweissverlustsyndrom,C0302858,steatorrhoe,C0038238
+eiweissverlustsyndrom,C0302858,unbeabsichtigter gewichtsverlust,C2363736
+eiweissverlustsyndrom,C0302858,malabsorptionssyndrom,C0024523
+eiweissverlustsyndrom,C0302858,oedem,C0013604
+eiweissverlustsyndrom,C0302858,pleuraerguss,C0032227
+eiweissverlustsyndrom,C0302858,aszites,C0003962
+eiweissverlustsyndrom,C0302858,lymphozytopenie,C0024312
+colitis ulcerosa,C0009324,diarrhoe,C0011991
+colitis ulcerosa,C0009324,anaemie,C0002871
+colitis ulcerosa,C0009324,abdominalschmerzen,C0000737
+colitis ulcerosa,C0009324,fieber,C0015967
+mikroskopische kolitis,C0400821,diarrhoe,C0011991
+mikroskopische kolitis,C0400821,unbeabsichtigter gewichtsverlust,C2363736
+mikroskopische kolitis,C0400821,abdominalschmerzen,C0000737
+mikroskopische kolitis,C0400821,uebelkeit,C0027497
+mikroskopische kolitis,C0400821,meteorismus,C1291077
+reizdarm,C0022104,schmerzen nnb,C0030193
+reizdarm,C0022104,druckgefuehl,C0234222
+reizdarm,C0022104,voellegefuehl,C3714614
+reizdarm,C0022104,darmgeraeusche anomal,C0159060
+reizdarm,C0022104,meteorismus,C1291077
+reizdarm,C0022104,flatulenz,C0016204
+reizdarm,C0022104,obstipation,C0009806
+reizdarm,C0022104,diarrhoe,C0011991
+reizdarm,C0022104,magenschmerzen,C0221512
+akute pankreatitis,C0001339,abdominalschmerzen,C0000737
+akute pankreatitis,C0001339,uebelkeit,C0027497
+akute pankreatitis,C0001339,erbrechen,C0042963
+akute pankreatitis,C0001339,meteorismus,C1291077
+akute pankreatitis,C0001339,aszites,C0003962
+akute pankreatitis,C0001339,fieber,C0015967
+akute pankreatitis,C0001339,hypotonie,C0020649
+akute pankreatitis,C0001339,pleuraerguss,C0032227
+akute pankreatitis,C0001339,ikterus,C0022346
+akute pankreatitis,C0001339,gesichtsroetung,C0016382
+akute pankreatitis,C0001339,subileus,C0919671
+chronische pankreatitis,C0149521,uebelkeit,C0027497
+chronische pankreatitis,C0149521,erbrechen,C0042963
+chronische pankreatitis,C0149521,unbeabsichtigter gewichtsverlust,C2363736
+chronische pankreatitis,C0149521,meteorismus,C1291077
+chronische pankreatitis,C0149521,diarrhoe,C0011991
+chronische pankreatitis,C0149521,ikterus,C0022346
+"karzinom , neuroendokrines",C0206695,flush,C0016382
+"karzinom , neuroendokrines",C0206695,hitzewallung,C0600142
+"karzinom , neuroendokrines",C0206695,gesichtsroetung,C0016382
+"karzinom , neuroendokrines",C0206695,zyanose,C0010520
+"karzinom , neuroendokrines",C0206695,sinustachykardie,C0039239
+"karzinom , neuroendokrines",C0206695,schwitzen,C0038990
+"karzinom , neuroendokrines",C0206695,subileus,C0919671
+"karzinom , neuroendokrines",C0206695,diarrhoe,C0011991
+"karzinom , neuroendokrines",C0206695,unbeabsichtigter gewichtsverlust,C2363736
+"karzinom , neuroendokrines",C0206695,endokardfibrose,C0553980
+"karzinom , neuroendokrines",C0206695,trikuspidalinsuffizienz,C0040961
+"karzinom , neuroendokrines",C0206695,asthmaanfall,C0038218
+"karzinom , neuroendokrines",C0206695,multiple teleangiektasien,C0235499
+"karzinom , neuroendokrines",C0206695,sonstige hautveraenderungen,C0478124
+insulinom,C0021670,schwitzen,C0038990
+insulinom,C0021670,hitzegefuehl,C0016382
+insulinom,C0021670,palpitationen,C0030252
+insulinom,C0021670,sinustachykardie,C0039239
+insulinom,C0021670,zittern,C0542247
+insulinom,C0021670,angst,C0003467
+insulinom,C0021670,heisshunger,C0006370
+insulinom,C0021670,uebelkeit,C0027497
+insulinom,C0021670,sehstoerungen,C0547030
+insulinom,C0021670,schwindel,C0012833
+insulinom,C0021670,kopfschmerzen,C0018681
+insulinom,C0021670,verwirrtheit,C0009676
+insulinom,C0021670,paraesthesien und dysaesthesien,C0852415
+insulinom,C0021670,hemiplegie,C0018991
+insulinom,C0021670,aphasie,C0003537
+insulinom,C0021670,gewichtszunahme,C0043094
+verner - morrison - syndrom,C0086768,diarrhoe,C0011991
+verner - morrison - syndrom,C0086768,hypokaliaemie,C0020621
+verner - morrison - syndrom,C0086768,hypochlorhydrie,C0079581
+verner - morrison - syndrom,C0086768,unbeabsichtigter gewichtsverlust,C2363736
+verner - morrison - syndrom,C0086768,verwirrtheit,C0009676
+"hepatitis , chronische",C0019189,muedigkeit,C0015672
+"hepatitis , chronische",C0019189,appetitlosigkeit,C0003123
+"hepatitis , chronische",C0019189,druckschmerz,C0234233
+"hepatitis , chronische",C0019189,arthralgie,C0003862
+"hepatitis , chronische",C0019189,ikterus,C0022346
+"hepatitis , chronische",C0019189,hepatomegalie,C0019209
+"hepatitis , chronische",C0019189,hypersplenismus,C0020532
+"hepatitis , chronische",C0019189,hepatosplenomegalie,C0019214
+"hepatitis , chronische",C0019189,plantarerythem,C0240773
+"hepatitis , chronische",C0019189,spider naevi,C0085666
+"hepatitis , chronische",C0019189,pruritus,C0033774
+"hepatitis , chronische",C0019189,hautatrophie,C0151514
+"hepatitis , chronische",C0019189,multiple teleangiektasien,C0235499
+"hepatitis , chronische",C0019189,dupuytren kontraktur,C0013312
+"hepatitis , chronische",C0019189,amenorrhoe,C0002453
+"hepatitis , chronische",C0019189,hypotrichose,C0020678
+"hepatitis , chronische",C0019189,hodenatrophie,C0156312
+"hepatitis , chronische",C0019189,gynaekomastie,C0018418
+alkoholische lebererkrankung,C0023896,hepatomegalie,C0019209
+alkoholische lebererkrankung,C0023896,splenomegalie,C0038002
+alkoholische lebererkrankung,C0023896,appetitlosigkeit,C0003123
+alkoholische lebererkrankung,C0023896,uebelkeit,C0027497
+alkoholische lebererkrankung,C0023896,unbeabsichtigter gewichtsverlust,C2363736
+alkoholische lebererkrankung,C0023896,ikterus,C0022346
+alkoholische lebererkrankung,C0023896,fieber,C0015967
+"leberversagen , akutes",C0162557,bewusstseinsstoerungen ane,C0947927
+"leberversagen , akutes",C0162557,somnolenz,C0013144
+"leberversagen , akutes",C0162557,koma,C0009421
+"leberversagen , akutes",C0162557,ikterus,C0022346
+"leberversagen , akutes",C0162557,foetor hepaticus,C0239571
+"leberversagen , akutes",C0162557,haemorrhagische diathese,C0019087
+"leberversagen , akutes",C0162557,hypotonie,C0020649
+"leberversagen , akutes",C0162557,hyperventilation,C0020578
+postinfektioese glomerulonephritis,C3805004,mikrohaematurie,C0239937
+postinfektioese glomerulonephritis,C3805004,oedem,C0013604
+postinfektioese glomerulonephritis,C3805004,hypertonie,C0020538
+postinfektioese glomerulonephritis,C3805004,haematurie,C0018965
+postinfektioese glomerulonephritis,C3805004,gesichtsoedem,C0542571
+postinfektioese glomerulonephritis,C3805004,kopfschmerzen,C0018681
+postinfektioese glomerulonephritis,C3805004,fieber,C0015967
+postinfektioese glomerulonephritis,C3805004,epileptischer anfall,C0014544
+postinfektioese glomerulonephritis,C3805004,somnolenz,C0013144
+postinfektioese glomerulonephritis,C3805004,dyspnoe,C0013404
+postinfektioese glomerulonephritis,C3805004,lungenoedem,C0034063
+postinfektioese glomerulonephritis,C3805004,erythrozyturie,C0018965
+postinfektioese glomerulonephritis,C3805004,erythrozytenzylinder im sediment vorhanden,C1963913
+postinfektioese glomerulonephritis,C3805004,proteinurie,C0033687
+rapid - progressives nephritisches syndrom,C0451728,blaesse,C0030232
+rapid - progressives nephritisches syndrom,C0451728,hypertonie,C0020538
+rapid - progressives nephritisches syndrom,C0451728,proteinurie,C0033687
+rapid - progressives nephritisches syndrom,C0451728,nephrotisches syndrom,C0027726
+rapid - progressives nephritisches syndrom,C0451728,niereninsuffizienz,C1565489
+rapid - progressives nephritisches syndrom,C0451728,lungenblutung,C0151701
+renales osteopathiesyndrom,C3805154,knochenschmerzen,C0151825
+renales osteopathiesyndrom,C3805154,myasthenie,C0947912
+nephroblastom,C0027708,abdominalschmerzen,C0000737
+nephroblastom,C0027708,appetitlosigkeit,C0003123
+nephroblastom,C0027708,erbrechen,C0042963
+nephroblastom,C0027708,erbrechen,C0042963
+nephroblastom,C0027708,fieber,C0015967
+nephroblastom,C0027708,haematurie,C0018965

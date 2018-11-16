@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3000" height="2000" viewBox="0 0 3000 2000">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-20" y1="999" x2="3016" y2="999" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fe74b6"/>
+      <stop offset="1" stop-color="#fad168"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-3.656" y1="1303.031" x2="3019.38" y2="1303.031" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c53fe"/>
+      <stop offset="0.91" stop-color="#4aa3fd"/>
+      <stop offset="1" stop-color="#4aa3fd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-4.406" y1="1378.781" x2="3019.34" y2="1378.781" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2bf898"/>
+      <stop offset="0.588" stop-color="#3acafe"/>
+      <stop offset="1" stop-color="#e193ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-5.219" y1="1501.69" x2="3020.84" y2="1501.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d84c3"/>
+      <stop offset="0.472" stop-color="#764ba0"/>
+      <stop offset="1" stop-color="#ca42a7"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x="-20" y="-16" width="3036" height="2030"/>
+  <path id="Gradient_Fill_1" data-name="Gradient Fill 1" class="cls-2" d="M0,1930c374.85-385.29,486.05-308.06,750-283,469.39,44.56,475.21-278.95,721.43-286.61,246.4-7.68,450.51,164.91,615.57-81.39,135.64-202.39,227.55-207.34,463-224,253.52-17.94,399.98-253.414,448-437s0,1385,0,1385L-1,2000C-0.234,1999.42-8.021,1969.41,0,1930Z"/>
+  <path id="Gradient_Fill_2" data-name="Gradient Fill 2" class="cls-3" d="M-1,1947c375.365-215.13,465.334-188.79,730-173,471.39,28.12,531.26-256.15,777-239,330.48,23.07,435.18,109.64,679-191,91.22-112.48,198.02-82.38,430-126,243.16-45.72,334.98-263.414,383-447s0,1232,0,1232L-1,2000C-0.234,1999.42-9.021,1986.41-1,1947Z"/>
+  <path id="Gradient_Fill_3" data-name="Gradient Fill 3" class="cls-4" d="M-2,1972c347.139-158.6,520.9-83.81,783-68,690.99,41.69,609.27-242,849-242,270.61,0,382.68,219.9,594-60,201.09-266.35,254.91-226.8,555-289,102.32-21.21,172.98-109.41,221-293s-2,983-2,983L-1,2000C-0.234,1999.42-10.021,2011.41-2,1972Z"/>
+</svg>

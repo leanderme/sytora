@@ -1,0 +1,68 @@
+umls/*
+data/cui2vec_pretrained.*
+data/descriptions.csv
+
+flaskapp/node_modules/
+flaskapp/app/backend/static/bundle.js
+
+# ignore database files but not the import scripts
+flaskapp/databases/*.db
+flaskapp/umls/databases/*.db
+flaskapp/databases.umls.db
+
+flaskapp/manual/*
+flaskapp/searchLog/*
+flaskapp/data/*
+
+# system files
+flaskapp/.DS_Store
+flaskapp/__pycache__
+
+notebooks/descriptions.csv
+
+# docs
+flaskapp/umls/docs/_build
+
+# system files
+flaskapp/umls/.DS_Store
+flaskapp/umls/__pycache__
+
+flaskapp/data/.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+notebooks/.ipynb_checkpoints
