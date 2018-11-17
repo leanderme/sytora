@@ -45,8 +45,6 @@ import Dialog, {
 import { I18nextProvider, NamespacesConsumer, Trans, withNamespaces } from 'react-i18next';
 import i18n from '../i18n';
 
-console.log(process.env.REACT_APP_ENDPOINT);
-
 const fetcher = axios.create({
   baseURL: process.env.REACT_APP_ENDPOINT,
   headers: {
