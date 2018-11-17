@@ -312,20 +312,22 @@ class Index extends Component {
                                     t => <h1>{t('homeTitle')}</h1>
                                   }
                                 </NamespacesConsumer>
-                                <p className="text-h3">
-                                  <NamespacesConsumer>
-                                    {
-                                      t => (t('introTextOne'))
-                                    }
-                                  </NamespacesConsumer>
-                                </p>
-                                <p className="mt-4 pb-4">
-                                 <NamespacesConsumer>
-                                    {
-                                      t => (t('introTextTwo'))
-                                    }
-                                  </NamespacesConsumer>
-                                </p>
+                                <div className="iphonehide">
+                                  <p className="text-h3">
+                                    <NamespacesConsumer>
+                                      {
+                                        t => (t('introTextOne'))
+                                      }
+                                    </NamespacesConsumer>
+                                  </p>
+                                  <p className="mt-4 pb-4">
+                                   <NamespacesConsumer>
+                                      {
+                                        t => (t('introTextTwo'))
+                                      }
+                                    </NamespacesConsumer>
+                                  </p>
+                                </div>
                               </div>
                               <div className="landing-box">
                                   <Grid container spacing={24}>

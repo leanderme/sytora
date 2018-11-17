@@ -24,6 +24,8 @@
   "homepage": "https://github.com/jbkuczma/flask-react#readme",
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.55",
+    "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
     "axios": "^0.17.0",
     "babel-runtime": "^6.26.0",
     "file-loader": "^1.1.5",

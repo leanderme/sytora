@@ -90,91 +90,21 @@ footer a {
   box-sizing: border-box;
 }
 
-/*========================
-    BUTTON styles
-  =======================*/
-.clap {
-  position: relative;
-  outline: 1px solid transparent;
-  border-radius: 50%;
-  border: 1px solid #bdc3c7;
-  width: 40px;
-  height: 40px;
-  background: none;
-
-}
-.clap:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: block;
-  border-radius: 50%;
-  width: 39px;
-  height: 39px;
-}
-.clap:hover {
-  cursor: pointer;
-  border: 1px solid #007bff;
-  transition: border-color 0.3s ease-in;
-}
-.clap:hover:after {
-  animation: shockwave 1s ease-in infinite;
-}
-.clap svg {
-  width: 20px;
-  fill: none;
-  stroke: #007bff;
-  stroke-width: 2px;
-}
-.clap svg.checked {
-  fill: #007bff;
-  stroke: #fff;
-  stroke-width: 1px;
-}
-
-.clap:focus {
-  outline: none;
-}
-
-.clap svg:focus {
-  outline: none;
-}
-
-.clap .clap--count {
-  display: none !important;
-  position: absolute;
-  top: -50px;
-  left: 20px;
-  font-size: 0.8rem;
-  color: white;
-  background: #007bff;
-  border-radius: 50%;
-  height: 20px;
-  width: 20px;
-  line-height: 20px;
-}
-.clap .clap--count-total {
-  display: none !important;
-  position: absolute;
-  font-size: 0.8rem;
-  width: 40px;
-  text-align: center;
-  left: 0;
-  top: -22.85714px;
-  color: #bdc3c7;
-}
-
-
-@keyframes shockwave {
-  0% {
-    transform: scale(1);
-    box-shadow: 0 0 2px #007bff;
-    opacity: 1;
+/* iPhone specific */
+@media only screen and (max-width: 600px) {
+  .iphonehide {
+    display: none !important;
   }
-  100% {
-    transform: scale(1);
-    opacity: 0;
-    box-shadow: 0 0 50px #1976d2, inset 0 0 10px #007bff;
+  .iphonecenter {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+  }
+}
+
+/* iPhone specific */
+@media only screen and (min-device-width: 600px) {
+  .desktophide {
+    display: none;
   }
 }

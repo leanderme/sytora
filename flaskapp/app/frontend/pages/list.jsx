@@ -7,7 +7,9 @@ import classNames from 'classnames';
 import Divider from 'material-ui/Divider';
 import Grid from 'material-ui/Grid';
 import Typography from 'material-ui/Typography';
-import { createMuiTheme, MuiThemeProvider, withStyles } from 'material-ui/styles';
+//import { createMuiTheme, MuiThemeProvider, withStyles } from 'material-ui/styles';
+import { MuiThemeProvider, createMuiTheme, withStyles} from '@material-ui/core/styles';
+
 import AppBar from 'material-ui/AppBar';
 import Toolbar from 'material-ui/Toolbar';
 import withRoot from '../components/withRoot.jsx';
@@ -26,6 +28,20 @@ import CloseIcon from 'material-ui-icons/Close';
 import List, { ListItem, ListItemText } from 'material-ui/List';
 import Search from 'material-ui-icons/Search';
 import Avatar from 'material-ui/Avatar';
+
+import Card from '@material-ui/core/Card';
+import CardHeader from '@material-ui/core/CardHeader';
+import CardMedia from '@material-ui/core/CardMedia';
+import CardContent from '@material-ui/core/CardContent';
+import CardActions from '@material-ui/core/CardActions';
+import Collapse from '@material-ui/core/Collapse';
+import red from '@material-ui/core/colors/red';
+import FavoriteIcon from '@material-ui/icons/Favorite';
+import ShareIcon from '@material-ui/icons/Share';
+import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
+import MoreVertIcon from '@material-ui/icons/MoreVert';
+
+
 import * as Emojione from 'react-emojione';
 import Select from 'react-select';
 import ClapButton from '../components/Clap.jsx';
@@ -99,6 +115,25 @@ const theme1 = createMuiTheme({
 });
 
 const styles = theme => ({
+  cardListItem: {
+    paddingBottom: 10
+  },
+  actions: {
+    display: 'flex',
+  },
+  expand: {
+    transform: 'rotate(0deg)',
+    transition: theme.transitions.create('transform', {
+      duration: theme.transitions.duration.shortest,
+    }),
+    marginLeft: 'auto',
+    [theme.breakpoints.up('sm')]: {
+      marginRight: -8,
+    },
+  },
+  expandOpen: {
+    transform: 'rotate(180deg)',
+  },
   toolbar: {
     flexGrow: 1,
     flexDirection: 'column',
@@ -151,6 +186,17 @@ const styles = theme => ({
   },
   inlineBlock: {
     display: 'inline-block'
+  },
+  bullet: {
+    display: 'inline-block',
+    margin: '0 2px',
+    transform: 'scale(0.8)',
+  },
+  sy: {
+    color: 'inherit',
+  },
+  highlight: {
+    color: '#6078ff'
   }
 });
 
@@ -208,8 +254,34 @@ class Index extends Component {
       newDiseaseSymptoms: [],
       language: "en",
       symptomOptions: DATA['en']['en' + 'LABELS'],
-      suggestions: [] // suggestion holds similar symptoms (arr of obj)
+      suggestions: [], // suggestion holds similar symptoms (arr of obj)
+      expanded: []
     }
+  }
+
+
+  handleExpandClick = (panel) => {
+    let newStateExpanded = this.state.expanded;
+    let index = newStateExpanded.indexOf(panel)
+
+    if (index === -1) {
+      newStateExpanded.push(panel)
+    } else {
+      newStateExpanded.splice(index, 1);
+    }
+
+
+    this.setState({ expaned: newStateExpanded });
+    console.log(newStateExpanded);
+  };
+
+  shouldExpandPanel = (panel) => {
+    let index = this.state.expanded.indexOf(panel)
+    console.log(this.state.expanded);
+    console.log(this.state.expanded.includes('panel1'));
+
+    console.log((index == -1 ? false : true));
+    return (index == -1 ? false : true);
   }
 
 
@@ -465,6 +537,14 @@ class Index extends Component {
     });
   }
 
+  getSymptomStringList(pred) {
+    let symptoms = ""
+    pred.sy.map((s) => {
+      symptoms += s + " • "
+    });
+    return symptoms;
+  }
+
   componentWillMount() {
     const { value } = this.state;
     let landingValue = [];
@@ -506,8 +586,9 @@ class Index extends Component {
     const classes = this.props.classes;
     let symptoms = this.state.value.map((v) => {return v.label}).join(', ');
     let transl = this.state.language === 'en' ? 'RELATED: ' : 'DAZUGEHÖRIG: ';
-
     let suggestionVals = this.state.suggestions.length >= 1 ? this.state.suggestions.map((v) => { return v.label }) : [];
+    const { expanded } = this.state;
+    const bull = <span className={classes.bullet}>•</span>;
 
     return (
       <MuiThemeProvider theme={theme1}>
@@ -578,47 +659,75 @@ class Index extends Component {
                   </div>
                 </Toolbar>
               </AppBar>
-              <main className={classNames(classes.content)}>
+              <main className={classNames(this.props.classes.content)}>
                   {this.state.results.length >= 1 ?
                   <div className="container">
                     <div>
                       <div className="mb-2 text-center pt-3">
-                        <div className="card">
+                        <div className="card iphonehide">
                           <div className="card-body">
                             <InstructTopWithHoc symptoms={symptoms}/>
-
                           </div>
                         </div>
                       </div>
-                      <ul className="list-group">
+                      <div className="">
                          {this.state.results.map((pred) => {
                           return (
-                           <li
-                            className="list-group-item list-group-item-action flex-column align-items-start"
-                            key={"li" + pred.disease}
-                            >
-                              <Grid container>
-                                <Grid item xs={3}>
-                                  <div className="mt-2 text-center">
-                                    <ClapButton onClick={() => this.handleClap(pred.disease)} />
-                                    <p className="text-center">
-                                      <NamespacesConsumer>
-                                        {
-                                          t => <small>{t('clapLabel')}</small>
-                                        }
-                                      </NamespacesConsumer>
-                                    </p>
+                           <div className={this.props.classes.cardListItem} key={"li" + pred.disease}>
+                              <Card className={this.props.classes.card}>
+                                <CardContent>
+                                  <Grid
+                                    justify="space-between" // Add it here :)
+                                    container 
+                                    spacing={24}
+                                  >
+                                    <Grid item>
+                                      <Typography variant="h5" component="h2" type="title" color="inherit">
+                                        {pred.disease}
+                                      </Typography>
+                                    </Grid>
+
+                                    <Grid item>
+                                      <div>
+                                        <small>{pred.prob + "%"}</small>
+                                      </div>
+                                    </Grid>
+                                  </Grid>
+
+                                  <div className={this.props.classes.row}>
+                                    {pred.sy.map((s) => {
+                                      let vals = this.state.value.map((v) => { return v.label })
+                                      let inSearch = vals.indexOf(s) > -1;
+                                      return (
+                                        <small
+                                          key={s}
+                                          className={classNames(this.props.classes.sy, inSearch && this.props.classes.highlight)}
+                                        >{s} {bull} </small>
+                                      )
+                                    })}
                                   </div>
-                                </Grid>
-                                <Grid item xs>
-                                  <div className="d-flex w-100 justify-content-between">
-                                    <h5 className="mb-1">{pred.disease}</h5>
-                                    <span className="badge badge-primary badge-pill">{pred.prob}%</span>
-                                  </div>
-                                  <div className="mt-2">
-                                    <small>
+                                </CardContent>
+                                <CardActions className={this.props.classes.actions} disableActionSpacing>
+                                  <IconButton aria-label="Looking for this?"  onClick={() => this.handleClap(pred.disease)} >
+                                    <FavoriteIcon />
+                                  </IconButton>
+                                  <IconButton
+                                    className={classNames(this.props.classes.expand, {
+                                      [this.props.classes.expandOpen]: this.shouldExpandPanel(pred.disease),
+                                    })}
+                                    onClick={() => this.handleExpandClick(pred.disease)}
+                                    aria-expanded={this.shouldExpandPanel(pred.disease)}
+                                    aria-label="Show more"
+                                  >
+                                    <ExpandMoreIcon />
+                                  </IconButton>
+                                </CardActions>
+                                <Collapse in={this.shouldExpandPanel(pred.disease)} timeout="auto" unmountOnExit>
+                                  <CardContent>
+                                    <Typography component="p">
                                       <InstructListWithHoc disease={pred.disease} />
-                                    </small>
+                                    </Typography>
+                                    
                                     <div className={this.props.classes.row}>
                                       {pred.sy.map((s) => {
                                         let vals = this.state.value.map((v) => { return v.label })
@@ -626,7 +735,7 @@ class Index extends Component {
                                         return (
                                           <Chip
                                             label={s}
-                                            key={s}
+                                            key={"chip_" + s}
                                             onClick={this.handleRequestDelete(pred.disease, s)}
                                             className={classNames(this.props.classes.chip, inSearch && this.props.classes.colorChip)}
                                             avatar={
@@ -705,27 +814,27 @@ class Index extends Component {
                                           </div>
                                         </div>
                                         : ''}
-                                  </div>
-                                </Grid>
-                              </Grid>
-                           </li>
+
+                                  </CardContent>
+                                </Collapse>
+                              </Card>
+                           </div>
                           )
                          })}
-                          <li className="list-group-item list-group-item-action flex-column align-items-start">
-                            <div className="text-center">
-                              <Button color="primary" onClick={this.handleDialogOpen}>
-                                <NamespacesConsumer>
-                                  {
-                                    t => (t('diseaseMissing'))
-                                  }
-                                </NamespacesConsumer>
-                              </Button>
-                            </div>
-                          </li>
-                        </ul>
-                        <div className="pb-4"></div>
-                     </div>
-                    </div>
+                        
+                        <div className="text-center">
+                          <Button color="secondary" variant="raised" onClick={this.handleDialogOpen}>
+                            <NamespacesConsumer>
+                              {
+                                t => (t('diseaseMissing'))
+                              }
+                            </NamespacesConsumer>
+                          </Button>
+                        </div>
+                      </div>
+                      <div className="pb-4"></div>
+                   </div>
+                  </div>
                   :
                   <div>
                     <section className="fdb-block" style={{backgroundImage: "linear-gradient(19deg, #21D4FD 0%, #B721FF 100%)"}}>
