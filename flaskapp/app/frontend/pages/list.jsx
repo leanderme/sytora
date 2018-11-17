@@ -45,6 +45,8 @@ import Dialog, {
 import { I18nextProvider, NamespacesConsumer, Trans, withNamespaces } from 'react-i18next';
 import i18n from '../i18n';
 
+console.log(process.env.REACT_APP_ENDPOINT);
+
 const fetcher = axios.create({
   baseURL: process.env.REACT_APP_ENDPOINT,
   headers: {
@@ -90,7 +92,6 @@ const getOptions = (input) => {
     });
 }
 
-
 const theme1 = createMuiTheme({
   palette: {
     primary: {
@@ -107,7 +108,6 @@ const styles = theme => ({
     justifyContent: 'center',
   },
   root: {
-    width: '100%',
     backgroundImage: 'linear-gradient(19deg, #21D4FD 0%, #B721FF 100%)'
   },
   chip: {
@@ -122,10 +122,6 @@ const styles = theme => ({
   },
   appFrame: {
     position: 'relative',
-    width: '100%',
-    height: '100%',
-    minHeight: '100vh',
-    alignItems: 'stretch',
     overflowX: 'hidden'
   },
   footer: {
@@ -299,7 +295,7 @@ class Index extends Component {
     this.setState({value:[...value, suggestion]});
 
     let vals = [...value, suggestion].map((v) => { return v.value })
-    
+
     this.props.history.push({
       pathname: "/search/",
       search: "?sy=" + vals.join(','),
@@ -592,7 +588,7 @@ class Index extends Component {
                         <div className="card">
                           <div className="card-body">
                             <InstructTopWithHoc symptoms={symptoms}/>
-                            
+
                           </div>
                         </div>
                       </div>
@@ -659,7 +655,7 @@ class Index extends Component {
                                         <div className="mt-2">
                                           <div className="card">
                                             <div className="card-body">
-                                              <h4> 
+                                              <h4>
                                                 <NamespacesConsumer>
                                                   {
                                                     t => (t('giveFeedbackTitle'))
