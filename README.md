@@ -9,13 +9,13 @@ To get started:
 - Run and check [ http://localhost:5001]( http://localhost:5001)
 - Done! :tada:
 
-Check out [sytora.com](sytora.com) for a demo.
-
 ![search](https://raw.githubusercontent.com/leanderme/sytora/master/screenshots/search.png)
+
+Check out [sytora.com](sytora.com) for a demo.
 
 
 ### Motivation
-Finding the right diagnosis cannot be achieved by extracting symptoms and run a classification algorithm. The hardest part is asking the right questions, focusing what is important in the situation, connecting other events, and much more. Despite all this, I have long been exited about writing a symptom-disease lookup system to quickly gather related symptoms to symptoms etc. Not everything the model outputs is nonsense. Actually it helps a lot to quickly get a list of diseases given to a set of symptoms.
+Finding the right diagnosis cannot be achieved by extracting symptoms and running a classification algorithm. The hardest part is asking the right questions, focusing what is important in the situation, connecting other events, and much more. Despite all this, I have long been exited about writing a symptom-disease lookup system to quickly gather related symptoms to symptoms etc. Not everything the model outputs is nonsense. Actually it helps a lot to quickly get a list of diseases given to a set of symptoms.
 
 ### Data
 The data is formatted as CSV files. Example entry:
@@ -45,23 +45,59 @@ python app.py
 ```
 
 ### Deployment
+Make sure to export `REACT_APP_ENDPOINT` with the correct address (e.g. http://yoursite.com)
 
-to keep the service alive: `gunicorn -b 127.0.0.1:5001 app:app`
-(install with pip install gunicorn)
+Get going in ~10 min:
+```
+sudo apt update
+sudo apt install python3-pip python3-dev build-essential libssl-dev libffi-dev python3-setuptools
+sudo apt install python-pip python-dev
+sudo apt install nodejs npm
+pip install flask pandas sklearn numpy
+pip install Flask-Limiter flask-expects-json
+pip install more-itertools requests configparser
+sudo apt-get install nginx supervisor
 
-**Nginx**
+git clone https://github.com/leanderme/sytora
+cd sytora/flaskapp && npm i
+
+vi /etc/supervisor/conf.d/sytora.conf
+sudo supervisorctl reread
+sudo service supervisor restart
+sudo supervisorctl status
+
+sudo vim /etc/nginx/conf.d/virtual.conf
+sudo nginx -t
+sudo service nginx restart
+```
+
+sytora.conf:
+```
+[program:sytora]
+directory=/root/sytora/flaskapp
+command=gunicorn app:app -b 0.0.0.0:5001
+autostart=true
+autorestart=true
+stderr_logfile=/var/log/sytora/sytora.err.log
+stdout_logfile=/var/log/sytora/sytora.out.log
+```
+
+virtual.conf
 ```
 server {
-    listen  80;
-
-    client_max_body_size 20M;
+    listen       80;
+    server_name  site.com;
 
     location / {
-        proxy_pass http://127.0.0.1:5000;
+        proxy_pass http://127.0.0.1:8000;
     }
 }
 ```
-Make sure to export `REACT_APP_ENDPOINT` with the correct address (e.g. http://yoursite.com)
+
+don't forget to transfer the umls.db, e.g. 
+`scp ./umls.db root@address:/root/sytora/flaskapp/umls/database`
+
+
 
 ### Coding quality, security & stability
 This project was written *very* quickly with no performance or stability features in mind; the code base suffered accordingly. Expect things to be cleaned up soon though.
