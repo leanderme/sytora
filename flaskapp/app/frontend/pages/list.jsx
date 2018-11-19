@@ -61,6 +61,8 @@ import Dialog, {
 import { I18nextProvider, NamespacesConsumer, Trans, withNamespaces } from 'react-i18next';
 import i18n from '../i18n';
 
+var URLSearchParams = require('url-search-params');
+
 const fetcher = axios.create({
   baseURL: process.env.REACT_APP_ENDPOINT,
   headers: {
@@ -272,15 +274,10 @@ class Index extends Component {
 
 
     this.setState({ expaned: newStateExpanded });
-    console.log(newStateExpanded);
   };
 
   shouldExpandPanel = (panel) => {
     let index = this.state.expanded.indexOf(panel)
-    console.log(this.state.expanded);
-    console.log(this.state.expanded.includes('panel1'));
-
-    console.log((index == -1 ? false : true));
     return (index == -1 ? false : true);
   }
 
@@ -375,7 +372,6 @@ class Index extends Component {
   }
 
   onChangeDisease = (value) => {
-    console.log(value);
     if (typeof value === 'undefined' || value === null)
       value = {};
     this.setState({ newDisease: value });
@@ -393,9 +389,7 @@ class Index extends Component {
 
     return function (feedbackSelected) {
         // perform change on this.state for name and newValue
-        console.log(feedbackSelected);
         new_selected[index]['added'] = feedbackSelected;
-        console.log(new_selected[index]['added']);
         this.setState({ selected: new_selected });
     }.bind(this);
   };
@@ -678,7 +672,7 @@ class Index extends Component {
                                 <CardContent>
                                   <Grid
                                     justify="space-between" // Add it here :)
-                                    container 
+                                    container
                                     spacing={24}
                                   >
                                     <Grid item>
@@ -727,7 +721,7 @@ class Index extends Component {
                                     <Typography component="p">
                                       <InstructListWithHoc disease={pred.disease} />
                                     </Typography>
-                                    
+
                                     <div className={this.props.classes.row}>
                                       {pred.sy.map((s) => {
                                         let vals = this.state.value.map((v) => { return v.label })
@@ -821,7 +815,7 @@ class Index extends Component {
                            </div>
                           )
                          })}
-                        
+
                         <div className="text-center">
                           <Button color="secondary" variant="raised" onClick={this.handleDialogOpen}>
                             <NamespacesConsumer>
